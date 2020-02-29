@@ -1,3 +1,4 @@
+央视频道,#genre#
 CCTV4k,http://111.0.27.28/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV1,http://111.0.27.28/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV2,http://111.0.27.28/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
@@ -21,7 +22,7 @@ CETV1,http://39.135.15.70:6610/PLTV/88888888/224/3221225723/1/index.m3u8
 CETV2,http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
 CETV3,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
 CETV4,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
-
+卫视频道,#genre#
 广东卫视,http://111.0.27.28/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
 湖南卫视,http://111.0.27.28/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 浙江卫视,http://111.0.27.28/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
@@ -54,7 +55,7 @@ CETV4,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
 内蒙古卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 新疆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 西藏卫视,http://117.156.28.21/PLTV/88888888/224/3221225622/index.m3u8
-
+地方频道,#genre#
 江苏公共,http://223.110.241.204:6610/gitv/live1/G_JSGG/G_JSGG/1.m3u8
 江苏综艺,http://223.110.241.204:6610/gitv/live1/G_JSZY/G_JSZY/1.m3u8
 江苏城市,http://223.110.241.204:6610/gitv/live1/G_JSCS/G_JSCS/1.m3u8
