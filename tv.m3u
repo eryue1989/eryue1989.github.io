@@ -4,7 +4,7 @@ http://111.0.27.28/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png"  group-title="央视",CCTV1
 http://111.0.27.28/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/2HD.png"  group-title="央视",CCTV2
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+http://111.0.27.28/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/3HD.png"  group-title="央视",CCTV3
 http://111.0.27.28/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/4HD.png"  group-title="央视",CCTV4
