@@ -1,0 +1,1551 @@
+$c_start移动专区$c_end
+雷神山实时画面2,http://mobilelive-play.ysp.cctv.cn/ysp/6D1BEA7FBEBBF86FFA845A6E219B85D14EA63007318AE095203B779F8C6E433BEA5CCCFD6371D2AB113C2440CBECA07DDCF1FCCE2170A53B8E0AE8CF1D340631B3C3BFE4E458884DB784FAE85AB4E4AF3EA653F2220E32124961162DE5A35FC9/2001893201_hd.m3u8#http://mobilelive-play.ysp.cctv.cn/ysp/6D1BEA7FBEBBF86FFA845A6E219B85D14EA63007318AE095203B779F8C6E433BEA5CCCFD6371D2AB113C2440CBECA07DDCF1FCCE2170A53B8E0AE8CF1D340631B3C3BFE4E458884DB784FAE85AB4E4AF3EA653F2220E32124961162DE5A35FC9/2001893201_hd.m3u8
+火神雷神山双画面,http://mobilelive-play.ysp.cctv.cn/ysp/D9998F77A8E065DCE01118AA51712FD3E9A7ECE5942362D1410233F34B31D1E99AD67597BC1DCBB833F1291AA9A4C86F7B3B2BAE5CAFDD368004368F90FA494A601D4377CB4EFA7E4E3603D3E5B5682D7FB04A4D1A456D760BE7173E3ACF3681/2001886801_hd.m3u8#http://mobilelive-play.ysp.cctv.cn/ysp/D9998F77A8E065DCE01118AA51712FD3E9A7ECE5942362D1410233F34B31D1E99AD67597BC1DCBB833F1291AA9A4C86F7B3B2BAE5CAFDD368004368F90FA494A601D4377CB4EFA7E4E3603D3E5B5682D7FB04A4D1A456D760BE7173E3ACF3681/2001886801_hd.m3u8
+雷神山实时画面1,http://mobilelive-play.ysp.cctv.cn/ysp/2F8F27AD68E55BA753424A26D761EDB3774A6AC710DA1748E615946B40CB75B5B9811AF231BAA804BFB1F2EAC9CA2A9270EC84643CF22D36B65EF2B647B1ADBE6F5E89482C3DEC18C8CCCB8B0A72520B7A78CF05501B0C3F8141DC0D9780CAB2/2001893301_hd.m3u8
+火神雷神山双画面3,http://mobilelive-play.ysp.cctv.cn/ysp/D9998F77A8E065DCE01118AA51712FD3E9A7ECE5942362D1410233F34B31D1E99AD67597BC1DCBB833F1291AA9A4C86F7B3B2BAE5CAFDD368004368F90FA494A601D4377CB4EFA7E4E3603D3E5B5682D7FB04A4D1A456D760BE7173E3ACF3681/2001886801_hd.m3u8
+雷神山实时画面4,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
+新闻频道,http://61.151.179.192/tlivecloud-cdn.ysp.cctv.cn/2000204603.m3u8
+疫情直播,https://aldirect.hls.huya.com/backsrc/94525224-2687807366-11544044734917902336-2847699228-10057-A-0-1_1200.m3u8?wsSecret=4b2c42113743714d25fe26f8039ca2d3&wsTime=5e38c87d,https://hls.liveshow.bdstatic.com/live/stream_bduid_3041161111_3348291487-L1.m3u8
+新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
+汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+火神山医院实时画面1,https://b1.pengyou.com/livechina/cntv10-jyg02.m3u8?auth_key=1836526433-0-0-76222a60fd53c00d00d794a1792bf33b
+雷神山医院实时画面1,https://mobilelive-play.ysp.cctv.cn/ysp/362EC03E45EC1C250B1D86E140D1AD901FB827C54417B6EB6A8A47148A57136ED574ED504463746EF58DFF7BE040C2D3566589B00C9CA61A594084F2D39904DAA13D146AFD12305D2F92E415E385CA5FFB7E7116FCA5C49A35F676450E8A6F03/2001893301_hd.m3u8,http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
+武汉加油,http://live.us.sinaimg.cn/001ZrMYCjx07ANATAdBu070d01000dnY0k01.m3u8
+工作防护,https://download-t.zhixueyun.com:443/default/M00/00/00/01-GZQYFH01.mp4
+个人防护,https://download-t.zhixueyun.com/default/M00/00/00/02-GRFHZS02.mp4
+居家防护,https://download-t.zhixueyun.com/default/M00/00/00/03-JJFH03.mp4
+认识病毒,https://download-t.zhixueyun.com/default/M00/00/00/04-XXGZBDFYGRDZS04.mp4
+新时代直播,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+$c_start疫情直播$c_end
+雷神山实时画面2,http://mobilelive-play.ysp.cctv.cn/ysp/6D1BEA7FBEBBF86FFA845A6E219B85D14EA63007318AE095203B779F8C6E433BEA5CCCFD6371D2AB113C2440CBECA07DDCF1FCCE2170A53B8E0AE8CF1D340631B3C3BFE4E458884DB784FAE85AB4E4AF3EA653F2220E32124961162DE5A35FC9/2001893201_hd.m3u8
+火神雷神山双画面3,http://mobilelive-play.ysp.cctv.cn/ysp/D9998F77A8E065DCE01118AA51712FD3E9A7ECE5942362D1410233F34B31D1E99AD67597BC1DCBB833F1291AA9A4C86F7B3B2BAE5CAFDD368004368F90FA494A601D4377CB4EFA7E4E3603D3E5B5682D7FB04A4D1A456D760BE7173E3ACF3681/2001886801_hd.m3u8
+火神雷神山双画面,http://mobilelive-play.ysp.cctv.cn/ysp/D9998F77A8E065DCE01118AA51712FD3E9A7ECE5942362D1410233F34B31D1E99AD67597BC1DCBB833F1291AA9A4C86F7B3B2BAE5CAFDD368004368F90FA494A601D4377CB4EFA7E4E3603D3E5B5682D7FB04A4D1A456D760BE7173E3ACF3681/2001886801_hd.m3u8
+疫情直播,https://aldirect.hls.huya.com/backsrc/94525224-2687807366-11544044734917902336-2847699228-10057-A-0-1_1200.m3u8?wsSecret=4b2c42113743714d25fe26f8039ca2d3&wsTime=5e38c87d#https://hls.liveshow.bdstatic.com/live/stream_bduid_3041161111_3348291487-L1.m3u8
+火神山医院实时画面1,https://b1.pengyou.com/livechina/cntv10-jyg02.m3u8?auth_key=1836526433-0-0-76222a60fd53c00d00d794a1792bf33b
+雷神山医院实时画面1,https://mobilelive-play.ysp.cctv.cn/ysp/362EC03E45EC1C250B1D86E140D1AD901FB827C54417B6EB6A8A47148A57136ED574ED504463746EF58DFF7BE040C2D3566589B00C9CA61A594084F2D39904DAA13D146AFD12305D2F92E415E385CA5FFB7E7116FCA5C49A35F676450E8A6F03/2001893301_hd.m3u8#http://mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
+武汉加油,http://live.us.sinaimg.cn/001ZrMYCjx07ANATAdBu070d01000dnY0k01.m3u8
+工作防护,https://download-t.zhixueyun.com:443/default/M00/00/00/01-GZQYFH01.mp4
+个人防护,https://download-t.zhixueyun.com/default/M00/00/00/02-GRFHZS02.mp4
+居家防护,https://download-t.zhixueyun.com/default/M00/00/00/03-JJFH03.mp4
+认识病毒,https://download-t.zhixueyun.com/default/M00/00/00/04-XXGZBDFYGRDZS04.mp4
+$c_start央视4K$c_end
+纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+CCTV4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+CCTV-4K超清,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8#http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266302.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8#http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8#http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV-4k,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+$c_start卫视频道$c_end
+浙江卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
+东方卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+江苏卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+北京卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+天津卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
+深圳卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
+山东卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
+湖北卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+辽宁卫视蓝光,http://39.135.34.19:18890/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035171
+安徽卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
+广东卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
+龙江卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+东南卫视蓝光,http://39.135.34.11:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035575
+江西卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
+重庆卫视蓝光,http://39.135.34.4:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035324
+四川卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225898/1.m3u8
+贵州卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8
+广西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
+河北卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225881/1.m3u8
+河南卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8
+海南卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8
+甘肃卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
+青海卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
+山西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
+云南卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
+陕西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+吉林卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
+宁夏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
+内蒙卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+新疆卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+西藏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+南方卫视高清,http://39.135.34.135:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032735
+珠江卫视高清,http://39.135.34.15:18890/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031981
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+$c_start天眼直播$c_end
+上海这一刻：陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
+投票站外摄像头,http://220.158.149.14:9999/live/TV00000000000000000034@HHZT;LIVE
+张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+张家界天门山天门洞,https://gccncc.v.wscdns.com/gc/tmstmd01_1/index.m3u8
+张家界天门山天空步道,https://gccncc.v.wscdns.com/gc/tms02_1/index.m3u8
+张家界天门山云梦仙顶,https://gctxyc.liveplay.myqcloud.com/gc/tms04_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/tms04_1/index.m3u8#https://gccncc.v.wscdns.com/gc/tms04_1/index.m3u8
+湖南湘西凤凰古城东关门,http://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8
+厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+广西玉林大容山莲花山顶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+平山湖大峡谷九龙汇海(回放),https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
+平山湖大峡谷峡谷石林(回放),https://gccncc.v.wscdns.com/gc/pshdxg02_1/index.m3u8
+桂林象山公园(回放),https://gccncc.v.wscdns.com/gc/glxs01_1/index.m3u8
+六盘山红军长征景区(回放),https://gccncc.v.wscdns.com/gc/lpsgmjng01_1/index.m3u8
+西汉南越王博物馆,https://gcalic.v.myalicdn.com/gc/nywbwg01_1/index.m3u8
+广东省深圳市甘坑客家小镇(回放),https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1/index.m3u8
+八里沟风景区天界山玻璃栈道(回放),https://gccncc.v.wscdns.com/gc/blg03_1/index.m3u8
+八里沟风景区桃花湾瀑布,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+汶川映秀新城,https://gccncc.v.wscdns.com/gc/wcyxxc01_1/index.m3u8
+十八洞村,https://gctxyc.liveplay.myqcloud.com/gc/sbd01_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/sbd01_1/index.m3u8
+趵突泉,https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8#https://gccncc.v.wscdns.com/gc/btq01_1/index.m3u8
+安徽省池州市九华山风景区拜经台,https://gccncc.v.wscdns.com/gc/jhs02_1/index.m3u8
+安徽省池州市九华山风景区,https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1/index.m3u8
+安徽省池州市九华山风景区花台,https://gccncc.v.wscdns.com/gc/jhs01_1/index.m3u8
+华山(回放),https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台南,https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+贵州省兴义市马岭河峡谷,https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
+贵州省贞丰市双乳峰景区,https://gccncc.v.wscdns.com/gc/xysrf_1/index.m3u8
+云南大理崇圣寺三塔中景,https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8
+云南大理崇圣寺三塔湖面,https://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8
+云南大理崇圣寺三塔远景,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+浙江杭州千岛湖,https://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8
+桂林漓江景区(回放),https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
+南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+玉龙雪山(回放),https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+玉龙雪山蓝月谷,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+玉龙雪山印象实景(回放),https://gccncc.v.wscdns.com/gc/hkylxs01_1/index.m3u8
+玉龙雪山玉液湖,https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
+白沙远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+玉龙雪山の一滴水过丽江,https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
+玉龙雪山の冰川(回放),https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+玉龙雪山草甸,https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+玉龙雪山白水台,https://gccncc.v.wscdns.com/gc/hkylxs07_1/index.m3u8
+玉龙雪山蓝月谷中游湖面,https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
+玉龙雪山の高尔夫(回放),https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
+江苏南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+福建漳州六鳌翡翠湾(回放),https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+福建漳州醉美沙滩翡翠湾(回放),https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+青岛崂山灵旗峰,https://gccncc.v.wscdns.com/gc/qdls01_1/index.m3u8
+青岛崂山八水河(回放),https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+青岛崂山双福,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+青岛崂山太清,https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
+三亚南山文化旅游区海上观音(回放),https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
+天津之眼,https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8#https://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
+天津海河(回放),https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8
+仙都风景区,https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
+四川凉山彝族自治州西昌市邛海景区,https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1/index.m3u8
+平遥古城(回放),https://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8
+普陀山,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8#https://gccncc.v.wscdns.com/gc/pts01_1/index.m3u8
+浙江舟山东极岛(回放),https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8#https://gccncc.v.wscdns.com/gc/djd01_1/index.m3u8
+宁夏黄河大峡谷,https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1/index.m3u8
+郑东新区千玺广场,https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
+张掖七彩丹霞,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8#https://gccncc.v.wscdns.com/gc/zyqcdx01_1/index.m3u8
+四川四姑娘山幺妹峰,https://gccncc.v.wscdns.com/gc/sgns01_1/index.m3u8
+四川四姑娘山隆珠措(回放),https://gccncc.v.wscdns.com/gc/sgns02_1/index.m3u8
+宁夏沙坡头大漠孤烟,https://gccncc.v.wscdns.com/gc/nxsptdmgy_1/index.m3u8
+宁夏沙坡头黄河漂流,https://gccncc.v.wscdns.com/gc/nxspthhpl_1/index.m3u8#https://gcalic.v.myalicdn.com/gc/nxspthhpl_1/index.m3u8
+宁夏沙坡头长河落日,https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
+丽江古城万古楼遥望玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+丽江古城大研花巷观景,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1/index.m3u8
+丽江古城大水车,https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1/index.m3u8
+云台山小寨沟,https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8
+云台山百家岩,https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8
+云台山红石峡,https://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1/index.m3u8
+福建武夷山印象大红袍(回放),https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8
+福建武夷山大红袍茶园(回放),https://gccncc.v.wscdns.com/gc/wysdhpcy_1/index.m3u8
+福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+黄山,https://gccncc.v.wscdns.com/gc/ahhs01_1/index.m3u8
+黄山始信新道,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+黄山卧云峰,https://gccncc.v.wscdns.com/gc/hswlf_1/index.m3u8#https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+黄山梦笔生花,https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
+黄山排云亭(回放),https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+黄山平天矼,https://gccncc.v.wscdns.com/gc/hsptgz_1/index.m3u8#https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+黄山飞来石,https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8
+黄山光明顶,https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
+泰山主峰,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8#https://gccncc.v.wscdns.com/gc/taishan01_1/index.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+泰山望人松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+泰山,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
+泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8#https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+泰山十八盘(回放),https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8#https://gccncc.v.wscdns.com/gc/taishan05_1/index.m3u8
+泰山天街,https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8#https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8
+泰山拱北日出,https://gccncc.v.wscdns.com/gc/hkts01_1/index.m3u8
+泰山白云亭悬崖(回放),https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+泰山碧霞祠(回放),https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+泰山经石峪(回放),https://gccncc.v.wscdns.com/gc/hkts04_1/index.m3u8
+泰山开山(回放),https://gccncc.v.wscdns.com/gc/hkts05_1/index.m3u8
+泰山龙潭水库(回放),https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
+泰山南天门(回放),https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8#https://gccncc.v.wscdns.com/gc/hkts07_1/index.m3u8
+泰山扇子崖(回放),https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
+泰山太平岭(回放),https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8
+泰山玉皇顶东(回放),https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
+泰山玉皇顶西(回放),https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1/index.m3u8
+张家界武陵源景区水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+张家界武陵源景区阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
+张家界武陵源景区迷魂台,https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1/index.m3u8
+张家界武陵源景区御笔峰,https://gccncc.v.wscdns.com/gc/zjjybf_1/index.m3u8
+张家界武陵源景区宝峰湖,https://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1/index.m3u8
+张家界武陵源景区将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+四川阿坝州松潘县黄龙景区,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+四川阿坝州松潘县黄龙景区洗身洞,https://gccncc.v.wscdns.com/gc/hlxsd_1/index.m3u8
+四川阿坝州松潘县黄龙景区五彩池,https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+四川阿坝州松潘县黄龙景区望乡台,https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8#https://gccncc.v.wscdns.com/gc/hlwxt_1/index.m3u8
+乐山大佛全景(回放),https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
+江西龙虎山中间水泡(回放),https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8#https://gccncc.v.wscdns.com/gc/lhszjsp_1/index.m3u8
+江西龙虎山山涧栈道(回放),https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8#https://gccncc.v.wscdns.com/gc/lhssjzd_1/index.m3u8
+丹霞山丹梯铁锁(回放),https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1/index.m3u8
+丹霞山韶音亭(回放),https://gccncc.v.wscdns.com/gc/dxssyt_1/index.m3u8
+云南红河哈尼梯田普高老寨,https://gccncc.v.wscdns.com/gc/hnttpgsz_1/index.m3u8
+云南红河哈尼梯田老虎嘴(回放),https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
+云南红河哈尼梯田多依树景点(回放),https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
+云南红河哈尼梯田坝达景点观景台(回放),https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8
+峨眉山云海日出,https://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
+峨眉山远眺贡嘎雪山,https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8
+峨眉山普贤菩萨铜像(回放),https://gccncc.v.wscdns.com/gc/emspxps_1/index.m3u8
+峨眉山远眺万佛顶(回放),https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8#https://gccncc.v.wscdns.com/gc/emswfs_1/index.m3u8
+鸣沙山,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+鸣沙山月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
+鸣沙山山门,https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+都江堰鱼嘴(回放),https://gccncc.v.wscdns.com/gc/djyqyl1_1/index.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1/index.m3u8
+都江堰飞沙堰(回放),https://gcalic.v.myalicdn.com/gc/djyewm_1/index.m3u8
+都江堰秦堰楼(回放),https://gcalic.v.myalicdn.com/gc/djyqyl2_1/index.m3u8#https://gccncc.v.wscdns.com/gc/djyqyl2_1/index.m3u8
+黄花城水长城01,https://gccncc.v.wscdns.com/gc/wgw01_1/index.m3u8
+黄花城水长城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+黄花城水长城03,https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8
+黄花城水长城04,https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
+湘西凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+湘西凤凰古城南华山,https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1/index.m3u8
+安徽黟县宏村芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+安徽黟县宏村西递半山亭,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
+安徽黟县宏村西递牌坊(回放),https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8#https://gccncc.v.wscdns.com/gc/yxxdpf_1/index.m3u8
+安徽黟县宏村月沼(回放),https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
+安徽黟县宏村南湖,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
+嘉峪关01(回放),https://gccncc.v.wscdns.com/gc/jyg01_1/index.m3u8
+嘉峪关02(回放),https://gccncc.v.wscdns.com/gc/jyg02_1/index.m3u8#https://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
+嘉峪关03(回放),https://gcalic.v.myalicdn.com/gc/jyg04_1/index.m3u8
+浙江乌镇蓝印花布,https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
+浙江乌镇全景(回放),https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+浙江乌镇西市河(回放),https://gccncc.v.wscdns.com/gc/zjwzbblh_1/index.m3u8
+浙江乌镇龙形田,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+牡丹江雪乡梦幻家园观景台(回放),https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
+牡丹江雪乡梦幻家园,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
+牡丹江雪乡大石碑(回放),https://gccncc.v.wscdns.com/gc/mdjxxdsb_1/index.m3u8
+神农架金丝猴01(回放),https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
+神农架金丝猴02(回放),https://gccncc.v.wscdns.com/gc/jsh02_1/index.m3u8
+神农架金丝猴06(回放),https://gccncc.v.wscdns.com/gc/jsh06_1/index.m3u8
+八达岭长城南七楼(回放),https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
+八达岭长城北十楼(回放),https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
+中央电视塔中塔东(回放),https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+中央电视塔中塔南(回放),https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+中央电视塔中塔西(回放),https://gctxyc.liveplay.myqcloud.com/gc/ztx_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8#https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8
+中央电视塔中塔北(回放),https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
+恒山悬空寺全景(回放),https://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1/index.m3u8
+恒山悬空寺恒宗(回放),https://gccncc.v.wscdns.com/gc/hsxkssqdzrqj_1/index.m3u8
+恒山悬空寺侧景(回放),https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1/index.m3u8#https://gccncc.v.wscdns.com/gc/hsxkscj_1/index.m3u8
+黄果树瀑布银链坠潭瀑布,https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1/index.m3u8
+黄果树瀑布六角亭瀑布,https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8#https://gccncc.v.wscdns.com/gc/hgsspzxdpb_1/index.m3u8
+天涯海角の天涯鸟瞰,https://gccncc.v.wscdns.com/gc/tyhjtynl_1/index.m3u8
+天涯海角の天涯石,https://gccncc.v.wscdns.com/gc/tyhjtys_1/index.m3u8#https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+天涯海角の南天一柱(回放),https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
+天涯海角の日月石(回放),https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
+嵩山少林寺广场(回放),https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8
+嵩山少林寺峻极峰(回放),https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8#https://gccncc.v.wscdns.com/gc/zsslsjjfsd_1/index.m3u8
+嵩山少林寺胜观峰(回放),https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1/index.m3u8
+江西婺源01(回放),https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
+江西婺源02(回放),https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8#https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
+陕西洋县国宝朱鹮01,https://gccncc.v.wscdns.com/gc/zhhd01_1/index.m3u8
+陕西洋县国宝朱鹮02,https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+陕西洋县国宝朱鹮03,https://gccncc.v.wscdns.com/gc/zh03_1/index.m3u8
+全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+黟县宏村月沼,https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+黟县宏村南湖,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+黟县西递半山亭俯瞰,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+黄山排云亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+黄山西海大峡谷,https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+云台山红石硖,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+泰山迎客松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
+泰山大观峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+泰山拱北石,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+印象大红袍,https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+武夷山大红袍茶园,https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
+张家界将军列队,https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+张家界阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+水长城镜头一,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+水长城镜头二,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+大研花巷景观台,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+峨眉云海日出,https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+贡嘎雪山,https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+普贤菩萨像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+悬空寺全景,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+恒宗,https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
+悬空寺侧景,https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
+天涯鸟瞰,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
+南天一柱,https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+雪乡梦幻家园,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+嘉峪关长城,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
+中央电视台中塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+中央电视台中塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+$c_start流行音乐$c_end
+屋顶着火 宋茜,https://vd3.bdstatic.com/mda-ife08h4xpq85sg65/logo/hd/mda-ife08h4xpq85sg65.mp4?pd=19&vt=1
+你的酒馆对我打了烊 陈雪凝,https://vd3.bdstatic.com/mda-ka59e4w0qxxsxnt0/hd/mda-ka59e4w0qxxsxnt0.mp4?pd=19&vt=1
+醉千年 李袁杰,http://vd3.bdstatic.com/mda-ihai9qt3yny3sx53/hd/mda-ihai9qt3yny3sx53.mp4?pd=19&vt=1
+不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
+左手指月,https://vdse.bdstatic.com//b35227847ccb42d48ea6414d47087ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A26%3A59Z%2F-1%2Fhost%2F9ce646d3e871069b3f23e45fc92e318ac9f5b3983d1ed3d996cc228026cba11e
+天地无霜,https://vdse.bdstatic.com//bd1f7fcb1263b608c60793c5c7094ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A25%3A13Z%2F-1%2Fhost%2F23ba28074d215adf2c6d0fb5cf09092bab7d4515197cbe40e43c536aa8ea3171
+思慕 郁可唯,https://vdse.bdstatic.com/5ec8d619d2ecb4ff832cfa252a967bb8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F8286183946f68461b8a723c098b274f2fcf856faf7f1f1c6bc9e5159dca71291
+凉凉 张碧晨杨宗纬,https://vdse.bdstatic.com//56bc61cb4f9d080708a7e74647a1c2b2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A48%3A39Z%2F-1%2Fhost%2F48ecdbdd75091e496f4412f52dce3ee2999cd6b370518825555d86e248da64cd
+就算没有如果 张杰,https://vdse.bdstatic.com//b362a1c2ecbc60b18d3dc06cdc97f142.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A58%3A51Z%2F-1%2Fhost%2Ff5f960beaff319951e978ff3850b31434a5d64f13c03c9724e988c251426270d
+浮诛 张杰,https://vdse.bdstatic.com/1c2dc5580507bc1b0ef507c63b3fc461.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F592cfc9d5b5bc41242144504ccf1f9f9df9d15b863f6f33c610e552faf629cd9
+望 赵丽颖 张碧晨,https://vdse.bdstatic.com/25f5ae931f851bf09c48abaebe5d6f8d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fbeb15438a125af0e53bc38c98b3f304da2e2c0f1f61103ce81a9df486dc138a3
+恋人心,https://vdse.bdstatic.com//e179fea2ba171a7268188a055702229d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A18%3A42Z%2F-1%2Fhost%2F84badc350a20f1dfe035e91408acfe7e4b1e69fe262f4faaa5ca3af837e1592b
+杀阡陌,https://vdse.bdstatic.com/17014878933308f5eb81b2a9d98783d8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd93a993d573ee3bcc23a02ca043066cf5106c87ccfff05e150791a903b70eb6b
+一念一年,https://vdse.bdstatic.com/ea4ad861c3816ba29b415da2494706a1.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fe5580be73eed99ae2d6da05453b3d79cdba5a663c049f6367ae6ae4bc4fbb1e6
+余年,https://vdse.bdstatic.com/660c78b56b33dca31497de9c6921c5a6.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fb2cec293153ef7795846f08b08f8ae00825357cd0ce4d2c2977afeb31bb70540
+只问你肯不肯,https://vdse.bdstatic.com/d4463cd83c0c47fba7ce65c71ad94bbb.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F09b9a33c3ded7584f68a3b875a10ba6a021d74f32e4144c2c0327f05c57abfdc
+如梦令,https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F105e954b546582862111230676e2cdc84b0144bf00447793daa377381b7ddb0f
+知否 知否,http://vd3.bdstatic.com/mda-imnj0y8p1qrw232x/hd/mda-imnj0y8p1qrw232x.mp4?pd=19&vt=1
+纸短情长,https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost%2F591e9e423bf5d139c7eac161a481a18a0ccd851124162fcb1cc55e9b2aea36c6
+孤芳自赏,https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A59Z%2F-1%2Fhost%2F861309b4a756c61dd0bad3718d9b8a27123c24838b9b4c8ec82bda2d04869c69
+风筝误,https://vdse.bdstatic.com/c331feb0b4730b05d03793ffc024e62a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F41d81188bd164f23d0ae35e5a721b43c799caa783fde1de169616ab76271e197
+往后余生,https://vd3.bdstatic.com/mda-jatub6sb1pzwxfnb/hd/mda-jatub6sb1pzwxfnb.mp4?pd=19&vt=1
+讲真的,https://vdse.bdstatic.com//9145a29aecbbf594c5b21ab1e6b14d20.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A46%3A15Z%2F-1%2Fhost%2Febfb2a020e4c84f1059f10839d2bda8f3e42dc62cd90d916b65f3ed55594d0aa
+体面,https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost%2F1a9107b1210343ed30aa27779a042aab3d016777226b471ee5f38c8fc1e23cf1
+38度6,https://vd3.bdstatic.com/mda-jmeeqqmp5fc82mts/hd/mda-jmeeqqmp5fc82mts.mp4?pd=19&vt=1
+让我留在你身边,https://vd3.bdstatic.com/mda-ka937fuwjq5nc1hd/hd/mda-ka937fuwjq5nc1hd.mp4?pd=19&vt=1
+我曾,https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
+追光者,https://vd3.bdstatic.com/mda-jm9pesj1uis5fssj/hd/mda-jm9pesj1uis5fssj.mp4?pd=20&vt=1
+我愿意平凡的陪在你身旁,https://vdse.bdstatic.com/570e05ef514db00b14c9c10d1aef7f1f.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd5332371b8e0882511e0b75041fcd24f0899fa4237f56edacb89b6734f95ca97
+大田后生仔,https://vdse.bdstatic.com/1f5b8de1e52e8ebe8d5493d29bf29981.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F40284dba7f6298e947920fa281898998a95118f96c5b0689661ad64dc9bfbf06
+忘不了也要忘,https://vdept.bdstatic.com/673656786a4d79543568555171457679/744c6c64636c7348/151dc88ddf2633224c08aafbb68a7cb6e1960a613b438cb034177fdd4688762229d5eb02c9d0790e14c63181d8397dbd.mp4?auth_key=1580757821-0-0-acad7e771004db4f1431049d97806a23
+心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-jmqy5wv8ffvj2z5j.mp4?pd=19&vt=1
+绿色,https://vd3.bdstatic.com/mda-jm07uzeu8ssth6c7/hd/mda-jm07uzeu8ssth6c7.mp4?pd=19&vt=1
+半壶纱,https://vd3.bdstatic.com/mda-kag404z097ciayha/hd/mda-kag404z097ciayha.mp4?pd=19&vt=1
+芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
+下山,https://vdse.bdstatic.com/e2d35750d461a6d524080c7a3c4cb7a4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F4fbaf22be415d855635ea3633a0f2fa9460bfb7cb3a13f2295a12b85245e0598
+盗将行,https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost%2F79c755e10a28040d25c417fac00f7f489b53a6d21959e047363889876ded1bce
+一曲相思,https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A00%3A56Z%2F-1%2Fhost%2Fc4e678fdb911f8524405fcf1563002f4f9c892a22e3f2033b917a39f2d01ea20
+芙蓉雨,https://vdse.bdstatic.com//85593e1127a1389dc49e9b0491814df2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A58%3A05Z%2F-1%2Fhost%2Fff58fddc077c03b3076760fe6728156bf526b7060c8e061d817388b869ac2320
+你的答案,https://vdse.bdstatic.com/363480020aaa13240bbe51121d3e2a65.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F092913f5016d684c2e159452cc811ca27c7e7b8d9172bcd8211c87b7cae449bd
+不仅仅是喜欢,https://vd3.bdstatic.com/mda-jhjswzf4u7tsujf1/hd/mda-jhjswzf4u7tsujf1.mp4?pd=19&vt=1
+你若三冬,https://vdse.bdstatic.com/865b4e81a729189fcafe910104151a75.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F572e0736b87ee3444ff2b54eb4ae655228dd4a84d9c6f7c6c588feb0ddbe1269
+站着等你三千年,https://vdse.bdstatic.com//967f216dea39a6f3ccb44884a219f8ff.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A33Z%2F-1%2Fhost%2F35aa2c099605e74a562ca0358f457186636ef317d486aa3ed6f60fc45c2c6c9a
+公众号SYFXZJ,http://jonkcck.jingzhidh.com/k@jdx&-hdfsh598.m3u
+世界美好与你环环相扣,https://vdse.bdstatic.com//90f59f9978da89c2f5f8dec807a238b6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A25%3A00Z%2F-1%2Fhost%2Fdceb89b6b26de04c015a3fec7d0ef013f60090d7117e95a2df3657b2d2698d0f
+红昭愿,https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/11/93/72189311/72189311-1-6.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1580752241&gen=playurl&os=hwbv&oi=3683899806&trid=557add6c77a441dcb427882e6cc9377fh&platform=html5&upsig=3fe766b2311fce11bf53d84a23d617d6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0
+桥边姑娘,https://vdse.bdstatic.com/8ae4235344c61f9c05ccf3716c84e823.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fcce92f8d8c53b543a981ee2a1a20ab1b07c6da20e01f4f5aaf9d82e5be5e6587
+我们不一样,https://vd3.bdstatic.com/mda-kaiskhuinjf4a8m4/hd/mda-kaiskhuinjf4a8m4.mp4?pd=20&vt=1
+如果有一天我变的很有钱,https://vd3.bdstatic.com/mda-jjmfvpaqh1z11ibc/hd/mda-jjmfvpaqh1z11ibc.mp4?pd=19&vt=1
+消愁,https://vd3.bdstatic.com/mda-ifkj2zwdscwthsfj/logo/hd/mda-ifkj2zwdscwthsfj.mp4?pd=20
+牧马城市,https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A40Z%2F-1%2Fhost%2F4739737cd8b21cbdb307a5d008abe88a61afce23616c55f2a8fae768fc2b6764
+借,https://vd3.bdstatic.com/mda-ii2njckdbkmmcp81/hd/mda-ii2njckdbkmmcp81.mp4?pd=20
+给你给我,https://vdse.bdstatic.com//4d056936c317b35f886ced83147ad7e8.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A42%3A28Z%2F-1%2Fhost%2F13c0f2dda852b6fdbcd7422de8ac3a48437304b4c38728deeedb6558c47a9eb9
+像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
+阿妮桑-伤的都是有情人,http://he.yinyuetai.com/uploads/videos/common/5F2E01660A27B8BEAA57CDA3E088D41A.mp4
+刘诗诗-离愁,http://hc.yinyuetai.com/C9C60162C6F976958577EA1EC2E3489B.mp4
+笑红尘,http://hc.yinyuetai.com/62880164F5C02F8452FA196F689A010B.mp4
+阿妮桑-情愿孤独终老,http://he.yinyuetai.com/uploads/videos/common/770501660A2E4F89402BC5E56C73F226.mp4
+阿妮桑-孤独的人最懂伤感情歌,http://he.yinyuetai.com/uploads/videos/common/5FE3015ABCDB5121EFF756429ED53878.mp4
+阿妮桑-定格幸福,http://he.yinyuetai.com/uploads/videos/common/77D801660A17C4FF01F0117FA4129097.mp4
+张燕-亲爱的人,http://he.yinyuetai.com/uploads/videos/common/102001430ACB6CA8342539EEA3BC52A2.flv
+任妙音-爱的期限720P,http://he.yinyuetai.com/uploads/videos/common/3EDB016208843CBFFF349606CC4C5507.mp4
+任妙音-天在下雨我在等你HD,http://he.yinyuetai.com/uploads/videos/common/1697016183BBE07FA2979898BA7C7606.mp4
+任妙音-那夜花开,http://he.yinyuetai.com/uploads/videos/common/BA8D016064B92D8BE90DC525774E83A2.mp4
+任妙音-如果你是落花,http://he.yinyuetai.com/uploads/videos/common/642F015B5B1825CE13427F5598BC9C8D.mp4
+任妙音-今生遇见你HD,http://he.yinyuetai.com/uploads/videos/common/7E5501562B8E7768CDA77BFA86C93B9F.flv
+任妙音-想把你挽留HD,http://he.yinyuetai.com/uploads/videos/common/3E520154F180C71A40F3F85C2791AE08.flv
+任妙音-又在梦里见到你,http://he.yinyuetai.com/uploads/videos/common/8ABE016236CEA6598DDEC1158E02C803.mp4
+任妙音-谢谢最亲爱的你,http://he.yinyuetai.com/uploads/videos/common/8D7901623162B1F85627274D537B003A.mp4
+鞠婧伊-白素贞,http://he.yinyuetai.com/uploads/videos/common/DCBA016A2B10B6806AA442345000F83C.mp4
+任妙音-爱的期限1080P,http://sh.yinyuetai.com/uploads/videos/common/85DF016208843CD9A93A74DDB8DE9266.mp4
+任妙音-见你一面,http://he.yinyuetai.com/uploads/videos/common/D92C016A887B29D3EA5A457AA4A526E1.mp4
+任妙音-简简单单的小幸福,http://he.yinyuetai.com/uploads/videos/common/6AC0016264731C2E38800F8965E9B234.mp4
+任妙音-烫情,http://he.yinyuetai.com/uploads/videos/common/D49D016538D0F05FEC088212D854B4E9.mp4
+任妙音-白蝴蝶,http://he.yinyuetai.com/uploads/videos/common/3A9401668CA6FD93848BE653E90839D3.mp4
+任妙音-明知你不回来,http://he.yinyuetai.com/uploads/videos/common/7EA10163CA2759C4E63DC438015ACC3B.mp4
+任妙音-今生不想失去你,http://he.yinyuetai.com/uploads/videos/common/628D01638137355F24965CFAAD22D889.mp4
+任妙音-DJ我在想你 你在哪里,http://he.yinyuetai.com/uploads/videos/common/2BCA01640B1B4047B254B74880CE9214.mp4
+任妙音-我在想你你在哪里,http://he.yinyuetai.com/uploads/videos/common/66A9016571F98529C3E2454B9EA0807C.mp4
+任妙音-长相伴,http://he.yinyuetai.com/uploads/videos/common/72520165FE1EF4D275B99CBF4553AE03.mp4
+任妙音-醉在江南,http://he.yinyuetai.com/uploads/videos/common/28B90164FB07060907949A912D08342B.mp4
+张可儿-梦回江南,http://he.yinyuetai.com/uploads/videos/common/7B65016767AAAF5D2A0C48CB10D7A680.mp4
+张可儿-相聚亿方,http://he.yinyuetai.com/uploads/videos/common/55780167676A2B533E810D5652C30DC2.mp4
+张可儿-真心换真情,http://he.yinyuetai.com/uploads/videos/common/37940165184AC7F206FD8F37270D0445.mp4
+张可儿-美丽姑娘花一样,http://he.yinyuetai.com/uploads/videos/common/C7BB01671AFC7FAD3EDC229AF1552205.mp4
+张可儿-请你让我走进你眼里,http://he.yinyuetai.com/uploads/videos/common/526001607D713EFE0033B1A85B6D5D9E.mp4
+张可儿-今生相约,http://he.yinyuetai.com/uploads/videos/common/165001671AFDB50C2CE75B5439B20BB6.mp4
+张可儿-人头山上,http://he.yinyuetai.com/uploads/videos/common/F41801637B2B068469FE3A39F824E92F.mp4
+张可儿-爱就万分之一,http://he.yinyuetai.com/uploads/videos/common/3159014E0FEA0A9024073941781F946A.flv
+谢容儿-王子来了,http://he.yinyuetai.com/uploads/videos/common/CE6F0151E6735AC048C4C3C9AF379CEF.flv
+龙梅子-今生有你,http://he.yinyuetai.com/uploads/videos/common/4A46014149169AA34B7BBA9ABC0D5499.flv
+龙梅子-飞飞飞,http://he.yinyuetai.com/uploads/videos/common/83D7016A5850D63781C67127DBBC0045.mp4
+龙梅子-一段情歌一段伤,http://he.yinyuetai.com/uploads/videos/common/40B101414924563C08D6615317532CDA.flv
+龙梅子-情歌继续唱,http://he.yinyuetai.com/uploads/videos/common/959301414932FC2DEA97A4BC6D40B003.flv
+龙梅子-唱一首情歌,http://he.yinyuetai.com/uploads/videos/common/705B0165F236508537F6E786F64C5395.mp4
+龙梅子-海鸥飞,http://he.yinyuetai.com/uploads/videos/common/732101659FDC8F98A69DED62F12D88EA.mp4#http://he.yinyuetai.com/uploads/videos/common/386501621C5E81652B3C59C41CCFE2B2.mp4
+龙梅子-因为爱着你,http://he.yinyuetai.com/uploads/videos/common/26610165136184B5D53C1552548CA3C1.mp4
+龙梅子-水倒流,http://he.yinyuetai.com/uploads/videos/common/27C6016511CEE3AE1E4FE1A3FBC4434F.mp4
+龙梅子-走吧,http://he.yinyuetai.com/uploads/videos/common/8ED50164B06950E959B8D25665C949C3.mp4
+龙梅子-离别的眼泪,http://he.yinyuetai.com/uploads/videos/common/1E290141494BB454232381739B02B227.flv
+龙梅子-心碎,http://he.yinyuetai.com/uploads/videos/common/AAFB014149387A70B2DE788ACA7C961E.flv
+龙梅子-情路弯弯,http://he.yinyuetai.com/uploads/videos/common/D977014149303D10FE992BE7EAE93967.flv
+龙梅子-女人的美,http://he.yinyuetai.com/uploads/videos/common/F1AC013A4419EE13BAA48D232B9CC209.flv
+龙梅子冷漠-谁都不要说分手,http://he.yinyuetai.com/uploads/videos/common/35CA013BB17F3F92D9EC93C92B387D80.flv
+龙梅子-当爱离别时,http://he.yinyuetai.com/uploads/videos/common/68590141491C18EBD6116C1430264B59.flv
+龙梅子-我的爱人不要走,http://he.yinyuetai.com/uploads/videos/common/59070141492197026D642D17588E6DBE.flv
+龙梅子-曾经相爱那么深,http://he.yinyuetai.com/uploads/videos/common/368701582E2301FD5D8519BD9C8CB46E.flv
+龙梅子-心要痛到什么时候,http://he.yinyuetai.com/uploads/videos/common/63AA014149271759B249E16A59BD7DED.flv
+龙梅子-美好生活,http://he.yinyuetai.com/uploads/videos/common/0AA1015F63450DB70F658A944DB24552.mp4
+龙梅子-你的哈HD,http://he.yinyuetai.com/uploads/videos/common/FC3B015E5BA5ECDBC4726A63F874B394.mp4
+龙梅子-原作鸳鸯不羡仙,http://he.yinyuetai.com/uploads/videos/common/B817015FAA6B04B5E1523B2631A94FE0.mp4
+龙梅子-我说亲爱的,http://he.yinyuetai.com/uploads/videos/common/F61901414935BB5687B277D67214379F.flv
+崔子格-路灯下的大女孩HD,http://he.yinyuetai.com/uploads/videos/common/02A601532FF613146D8F872A8F7A38F6.flv
+崔子格-小美人HD,http://he.yinyuetai.com/uploads/videos/common/420C0143417BAA37BB89813CFDBE7EA0.flv
+东方红艳 安东阳,http://he.yinyuetai.com/uploads/videos/common/3512015585476318FD83DF33137FC95A.flv
+蜜雪薇琪-爱斯基摩,http://hc.yinyuetai.com/uploads/videos/common/161C012F962CA9AE2FC65BA9F9C1209F.flv
+杨蓉-臣妾做不到,http://he.yinyuetai.com/uploads/videos/common/11C3014A60DD73B137CCBFAA3C69C278.flv
+邓丽君-柔情专辑,http://he.yinyuetai.com/uploads/videos/common/6B5E015B3CE0749FCECB2C4692AA2839.mp4
+邓丽君-香港特辑(上),http://he.yinyuetai.com/uploads/videos/common/C909015B050F76FB1A1ED213A0493266.mp4
+邓丽君-香港特辑(下),http://he.yinyuetai.com/uploads/videos/common/5E94015B189295148EC9101818D6E282.mp4
+邓丽君-伊丽莎白体育场专辑(上),http://he.yinyuetai.com/uploads/videos/common/9772015A4FF35DF59A2E78F80390381E.mp4
+陈佳现场三首,http://he.yinyuetai.com/uploads/videos/common/425801618382DE8A9981CFB1F659BC8D.mp4
+陈佳-又见炊烟HD,http://he.yinyuetai.com/uploads/videos/common/A4CD0157B794E0FCB65D0E95CDFD625F.flv
+陈佳-别把眉儿皱HD,http://hd.yinyuetai.com/uploads/videos/common/6844015479F272DAE2B6BD4225B627ED.flv
+陈佳-娘心HD,http://hd.yinyuetai.com/uploads/videos/common/47530154940CBCF09384B65E526E9279.flv
+陈佳-天涯歌女HD,http://he.yinyuetai.com/uploads/videos/common/DBF201546F7F3EECFC35B2BFF2A82B09.flv
+陈佳-月亮代表我的心hd,http://hd.yinyuetai.com/uploads/videos/common/FFE80154940D27B349AE398E19042DDD.flv
+陈佳-伊人何处HD,http://hd.yinyuetai.com/uploads/videos/common/EB690154F5E683B3AAE6BB3D540CA9B3.flv
+陈佳-几多愁HD,http://hd.yinyuetai.com/uploads/videos/common/7E780154A8BC615E280F4C082BCD118B.flv
+陈佳-在水一方HD,http://he.yinyuetai.com/uploads/videos/common/7A220154CCDF67270EE2DB883387D2A2.flv
+陈佳-春风满小城HD,http://hd.yinyuetai.com/uploads/videos/common/F97101549E3E21FE5AD92131054AC095.flv
+陈佳-叹十声等HD,http://he.yinyuetai.com/uploads/videos/common/F823014DEA807DF8A3060FCF18BAA891.flv
+金海心-呼吸,http://he.yinyuetai.com/uploads/videos/common/6E410149AD2C1198AF2090D9D278461D.flv
+金海心-爱似水仙,http://he.yinyuetai.com/uploads/videos/common/C243015A3126C5E6DCF6E4DC7CCF85E5.mp4
+七月七日晴-许慧欣,http://he.yinyuetai.com/uploads/videos/common/E9AC014E598795B163255CD9A0024B63.flv
+蔡淳佳-有一天我会,http://hc.yinyuetai.com/uploads/videos/common/F5C501273CD21514C37CA9EC2725BA03.flv
+高安-相爱的歌,http://he.yinyuetai.com/uploads/videos/common/51150166E3975B2C4385BD52F59E988D.mp4
+高安-相爱的歌DJ,http://hc.yinyuetai.com/uploads/videos/common/066B0166E706475031DB31430E88C1BF.mp4
+门丽-亲爱的你在那里DJ,http://he.yinyuetai.com/uploads/videos/common/C64C0166D8BDCA0E8E586CC7DFE17A34.mp4
+苏子栖-义乌义乌,http://he.yinyuetai.com/uploads/videos/common/72830165D711B0903599BB284D580596.mp4
+李嘉格-谢谢你爱我,http://he.yinyuetai.com/uploads/videos/common/EFE501671A6BFB693A26F7FBE5EFDE01.mp4
+郭金-亲爱的你对我有没有在意,http://he.yinyuetai.com/uploads/videos/common/D2A80166FBCD39CA27CD7D3C2B9638DF.mp4
+郭金-爱情让我着了魔,http://he.yinyuetai.com/uploads/videos/common/ED3A015E38257D18B186DE27F148732D.mp4
+薛凯琪-好好听,http://he.yinyuetai.com/uploads/videos/common/BAE30161D73F4E9B92FE0E689547EC92.mp4
+张柏芝-星语心愿,http://he.yinyuetai.com/uploads/videos/common/86CB01619E967878C9A6173A2FA3D709.mp4
+谢雨欣-纯情版,http://he.yinyuetai.com/uploads/videos/common/AB55015AEB3DB6B7883CE406084D7F5D.mp4
+谢雨欣-侠客行插曲,http://he.yinyuetai.com/uploads/videos/common/EE7D015F7ABA5F638E5377ECD37B97E3.mp4
+谢安琪-喜贴街,http://he.yinyuetai.com/uploads/videos/common/B274013AF77EA54253D5E6C5A107EB17.flv
+谢安琪-喜贴街2,http://he.yinyuetai.com/uploads/videos/common/7B4A01422EBF05A922B62123D9A88B24.flv
+谢安琪-两忘烟水里,http://he.yinyuetai.com/uploads/videos/common/2150014E676D702A37BF5FD3E36DE3DD.flv
+梁静茹-可惜不是你HD现场,http://he.yinyuetai.com/uploads/videos/common/6EA50139859C5C8D28EFCBE781C8783F.flv
+梁静茹-暖暖HD现场,http://he.yinyuetai.com/uploads/videos/common/64980159D3CAE63E55A40E10F611B79A.mp4
+梁静茹-呵护HD,http://he.yinyuetai.com/uploads/videos/common/97890157E51B1453C54100776DC0755A.flv
+宅舞-不要啊,http://he.yinyuetai.com/uploads/videos/common/55110161F0873D478F03B018ED60B9A2.mp4
+杨梓-被情上过的女人,http://he.yinyuetai.com/uploads/videos/common/CF6D014352A0B435343624FCE913555B.flv
+杨梓-那么近那么远,http://he.yinyuetai.com/uploads/videos/common/2896015DEB5CCB97F402F78EAAF17CBE.mp4
+杨梓-亲爱的你听见了吗,http://he.yinyuetai.com/uploads/videos/common/A205014AE0A9D68DCBE60B180D52A02F.flv
+杨梓-梦蝶,http://hc.yinyuetai.com/uploads/videos/common/494201420D55411DB1EFE9135C95D326.flv
+本兮-某个心跳HD,http://he.yinyuetai.com/uploads/videos/common/141E01403D55FC7B221F805BF331648A.flv
+本兮-你在看孤独的风景,http://he.yinyuetai.com/uploads/videos/common/CCCD015DD13D66AC84B0987BF25CBBAF.mp4
+本兮-下雪的季节FHD,http://he.yinyuetai.com/uploads/videos/common/25EC0158B35FA758F1EAEF21CCBE371F.mp4
+本兮-下雪的季节hd,http://hd.yinyuetai.com/uploads/videos/common/B8530158B35FA75E9C9D25BEC37E332F.mp4
+牛欣欣-新年乐嗨天,http://he.yinyuetai.com/uploads/videos/common/4AAA01618DD089059F02855B7E4EA793.mp4
+牛欣欣-梦计划HD,http://he.yinyuetai.com/uploads/videos/common/6EEA015EA93CEF4833E3688830ABDCDC.mp4
+牛欣欣-云中的angle,http://he.yinyuetai.com/uploads/videos/common/CC5C01595053EAF6C168B051EBC7029E.mp4
+牛欣欣-梦的主场,http://he.yinyuetai.com/uploads/videos/common/AF81014E768022FD13B73C47EF930A0E.flv
+牛欣欣-为梦掀起风暴,http://he.yinyuetai.com/uploads/videos/common/0B330167076FF41807D0ABACD813F7A7.mp4
+牛欣欣-有可能的夜晚,http://he.yinyuetai.com/uploads/videos/common/1DCB0158448308FF6AC551B2D70B6987.mp4
+牛欣欣-招财猫HD,http://he.yinyuetai.com/uploads/videos/common/742B013CE9633BBEEA6EE0ADAADCD3AA.flv
+郭书瑶-哈尼,http://he.yinyuetai.com/uploads/videos/common/3D54014235BBF72BAB58B97FCB8960C7.flv
+郭静-下一个天亮-现场版,http://he.yinyuetai.com/uploads/videos/common/FCCD0156A8417C5BFA41A6F102B7D51C.flv
+风光720P-没有你陪伴我真的好孤单,http://he.yinyuetai.com/uploads/videos/common/9613015F78ABA0CEF9B1F0DD3245FC9A.mp4
+梦然720P-没有你陪伴我真的好孤单,http://he.yinyuetai.com/uploads/videos/common/99BD015FC410138C79440EADAF7F9040.mp4
+梦然1080P-没有你陪伴我真的好孤单,http://sh.yinyuetai.com/uploads/videos/common/AB390158E93B41E0563C4C8F04FEDB40.mp4
+梦然-后来我去北京找你720P,http://he.yinyuetai.com/uploads/videos/common/2203015BE7F87251C801E8658E276B43.mp4
+梦然-后来我去北京找你1080P,http://sh.yinyuetai.com/uploads/videos/common/512C015BE7F8723FBBFD318FE2A3A47A.mp4
+梦然-为你上自己的心,http://hd.yinyuetai.com/uploads/videos/common/5230013851CC03D52BEABE7E9E71255C.flv
+孟晓笛-啦啦啦HD,http://he.yinyuetai.com/uploads/videos/common/A127015DFA171384A22BA1C346BDDC28.mp4
+王语心-梦中小屋HD,http://he.yinyuetai.com/uploads/videos/common/2AE5014D88A8AD9B72E512F39E9E7121.flv
+王语心-宝贝我爱你HD,http://he.yinyuetai.com/uploads/videos/common/152C01504BAF3C5A876FF2E7DCC7E1C3.flv
+王语心-相爱永远在一起HD,http://he.yinyuetai.com/uploads/videos/common/B5370156BF75EC64C2E002BA417B088A.flv
+王语心-让我一生爱着你HD,http://he.yinyuetai.com/uploads/videos/common/D731014D707AE5F0DE60D08689EC31C6.flv
+王语心-甜蜜爱情HD,http://he.yinyuetai.com/uploads/videos/common/C53B014B2129159ED7BB38C64A74C6D7.flv
+赵真-两头猪的真爱HD,http://he.yinyuetai.com/uploads/videos/common/B6EB0156700D5CEC0B398D72B7DC1C99.flv
+赵真-山西姑娘HD,http://he.yinyuetai.com/uploads/videos/common/CD9501674B329F24D919FC9BFD35FE7A.mp4
+赵真-一生牵挂的人HD,http://he.yinyuetai.com/uploads/videos/common/32380164910B8EA8B88C12F4FE8BC889.mp4
+赵真-好运连连HD,http://he.yinyuetai.com/uploads/videos/common/65310160CAE02A07BB036AB1F8D6CFA0.mp4
+群星-新年大吉HD,http://he.yinyuetai.com/uploads/videos/common/12E80152826B7666A9BB9A6855C9234F.flv
+陈玉建-白头偕老HD,http://hd.yinyuetai.com/uploads/videos/common/56F7013A4E6A7D13618DECA8EBB99E15.flv
+杨梓-幸福的两个人HD,http://he.yinyuetai.com/uploads/videos/common/64DE0141CB276C7B3B14F899E179DD48.flv
+杨梓-谁是我的郎,http://hc.yinyuetai.com/uploads/videos/common/959B015FD21CE6E07E1FC04E6421CE6E.mp4
+杨梓-狠心丢下我,http://hc.yinyuetai.com/uploads/videos/common/A28E0146945E83829BF0E6724CCEF9B3.flv
+杨梓-落叶一片片,http://hc.yinyuetai.com/uploads/videos/common/B9150136046FE3106C2DBFECB0A891A7.flv
+杨梓-打住打住HD,http://he.yinyuetai.com/uploads/videos/common/70DF014AED2DFF40AFC35441C8FE3BEE.flv
+杨梓-亲爱的你听见了吗HD,http://he.yinyuetai.com/uploads/videos/common/06E20141CA6F659106522041C6B96484.flv
+杨梓-散就散HD,http://hc.yinyuetai.com/uploads/videos/common/EA8C0135E419D39110384CBD19A38EF0.flv
+杨梓-你不懂我我不见怪,http://hc.yinyuetai.com/uploads/videos/common/F75E0136046FCD19AB15075721BF7213.flv
+杨梓-我想你HD,http://he.yinyuetai.com/uploads/videos/common/6CD701627900AA1075DE0A7A6C9896B1.mp4
+陶玉玉-牵牛花,http://he.yinyuetai.com/uploads/videos/common/8FFD01615EB273B7D8F99011C7E30E6A.mp4
+陶玉玉-遇见爱,http://he.yinyuetai.com/uploads/videos/common/C141015D5ED70A24FB096D1EA52DBCF9.mp4
+陶玉玉-你会爱我到什么时候,http://he.yinyuetai.com/uploads/videos/common/A8B90153A78C7FE96DAB74A4CB61318F.flv
+陶玉玉-不要在我寂寞的时候说爱我,http://he.yinyuetai.com/uploads/videos/common/E327014BFCA1B62D3F8152625766E7DE.flv
+陶玉玉-一辈子爱不够,http://he.yinyuetai.com/uploads/videos/common/C65601616487F61B7E6E53CCA59D829E.mp4
+陶钰玉-月亮爱情故事,http://he.yinyuetai.com/uploads/videos/common/6F3A01669A916FDA4080AFAFC2064B72.mp4
+陶钰玉-最长情,http://he.yinyuetai.com/uploads/videos/common/B5DE01624686886288C95162977C4DF5.mp4
+曹艺馨-忍着痛泪不掉,http://he.yinyuetai.com/uploads/videos/common/85840162405FB9BF4B5FE61F66185B78.mp4
+曹艺馨-忍着痛泪不掉(官方版),http://he.yinyuetai.com/uploads/videos/common/6DB6016240BCF0DD8A60CC502313AE0A.mp4
+圈9-极乐净土(中文版),http://he.yinyuetai.com/uploads/videos/common/723B01617126A49083D478884B13BED6.mp4
+格格-生日快乐歌,http://he.yinyuetai.com/uploads/videos/common/B33C01612CF4F13A8AB4F398F0F08E33.mp4
+魏新雨-红尘雨HD,http://he.yinyuetai.com/uploads/videos/common/4F3601641064BA1477BE41E202FF00B9.mp4
+魏新雨-红尘雨DJHD,http://he.yinyuetai.com/uploads/videos/common/EA600164106894075782AB68143E02AA.mp4
+路童-红尘插曲HD,http://he.yinyuetai.com/uploads/videos/common/1EB00167501480382DAFC84FD20C0F5E.mp4
+郭少杰-一曲红尘HD,http://he.yinyuetai.com/uploads/videos/common/686B01638ADA5DF967DCFFCE3F3E67BC.mp4
+魏新雨-最美的情缘,http://he.yinyuetai.com/uploads/videos/common/62D0015E76D871114212126850086FF5.mp4
+魏新雨-你是我放不下的缘,http://he.yinyuetai.com/uploads/videos/common/70F40161F05D8650B7A57ECC6A50C060.mp4
+魏新雨-一定要爱你,http://he.yinyuetai.com/uploads/videos/common/F5F401518CE39FD1E8B90258686056AA.flv
+魏新雨-爱我比你用心,http://he.yinyuetai.com/uploads/videos/common/CB2A01504A8D17949458172269E4ED88.flv
+魏新雨-恋人心,http://he.yinyuetai.com/uploads/videos/common/87D5014FB203DE229F572DB6CB206A6B.flv
+魏新雨-恋人心（现场版),http://hc.yinyuetai.com/uploads/videos/common/2D840160B1366696A642073A97BF8BFB.mp4
+蜜雪薇琪-独立HD,http://he.yinyuetai.com/uploads/videos/common/6F0A016204A696C3D47691D1D4598950.mp4
+胡慧中-城市行囊,http://hc.yinyuetai.com/uploads/videos/common/6825A3D64E374E7A9AE694A067A6B368.flv
+唐古-你傻不傻HD,http://he.yinyuetai.com/uploads/videos/common/A12F0161FF4CEDBDCCF4BC7B0B0C8BE6.mp4
+唐古-陪你一直到老HD,http://he.yinyuetai.com/uploads/videos/common/BE7A01536FF52555C92766324958B2FD.flv
+唐古-别再轻易许下承诺HD,http://he.yinyuetai.com/uploads/videos/common/845301555D12BC3D46492150920488F2.flv
+胡杨林-香水有毒HD,http://he.yinyuetai.com/uploads/videos/common/FC480165B9AD5D443AEA76BC2007C670.mp4
+金莎专访,http://hc.yinyuetai.com/uploads/videos/common/24E90136B03B0680B9673B38D461D572.flv
+金莎-爱的魔法HD,http://he.yinyuetai.com/uploads/videos/common/22E901404F3974697726AB2AC2460BB8.flv
+金莎-他不爱我HD,http://he.yinyuetai.com/uploads/videos/common/DD4B01404D970F1819C94E57E97BFA8C.flv
+金莎-你是我的糖HD,http://he.yinyuetai.com/uploads/videos/common/5D1601497EA7C2255E35B1FF2E4D9ED9.flv
+金莎-星月神话之现场版HD,http://he.yinyuetai.com/uploads/videos/common/5C50015316C1530A43EE762202789DF7.flv
+金莎-星月神话之MV版HD2,http://hd.yinyuetai.com/uploads/videos/common/688C014E18AEED9D3972B06A25D70855.flv
+金莎-星月神话之影视版,http://hc.yinyuetai.com/uploads/videos/common/7A4E012E564ED8CB2F4FC97DCA62DD0A.flv
+林俊杰金莎-被风吹过的夏天,http://hc.yinyuetai.com/uploads/videos/common/070A015FF653FF5FBFC33573F6C6A75D.mp4
+萌萌哒天团-帝都HD,http://he.yinyuetai.com/uploads/videos/common/EF11016168FD2C5D1BE8B14361169C20.mp4#http://he.yinyuetai.com/uploads/videos/common/79A90151AEF31CBE2E04E3418CAB232B.flv
+萌萌哒天团-帝都2HD,http://he.yinyuetai.com/uploads/videos/common/3033015CDCEFFDEA4D83262C3CB115BC.mp4
+杨谨-我需要你HD,http://he.yinyuetai.com/uploads/videos/common/0593014242EE42D3AB36A7161B448732.flv
+杨谨-花样时代HD,http://he.yinyuetai.com/uploads/videos/common/AD0C013DF8A33EAFE4C42116671A259A.flv
+杨谨-星语心愿HD,http://he.yinyuetai.com/uploads/videos/common/5443013E899BF70FE10BD703C6CA5C56.flv
+陈兴渝-男大当婚女大当嫁,http://he.yinyuetai.com/uploads/videos/common/F9A30140E8BF396F340F010C8FD5C13A.flv
+郭津彤-心肝大宝贝,http://hc.yinyuetai.com/uploads/videos/common/C7B804CA33893A6C1E6954934591426B.flv
+郭津彤-女大十九变,http://hc.yinyuetai.com/uploads/videos/common/F009F871634CDC254A34DFCAAD27B5CF.flv
+谢容儿-其实我很在乎你,http://he.yinyuetai.com/uploads/videos/common/B5A901422116A0DBC244E3BCACA5FC42.flv
+杨钰莹-是不是月亮最寂寞HD,http://he.yinyuetai.com/uploads/videos/common/4B960162E669C4286EE093CD394AF4EA.mp4
+杨钰莹-是不是月亮最寂寞FHD,http://sh.yinyuetai.com/uploads/videos/common/4AA10162E669C435237687DC70207A86.mp4
+杨钰莹-轻轻地告诉你HD,http://he.yinyuetai.com/uploads/videos/common/852901647C0F9F7E0B1F4B4B74F47225.mp4
+杨钰莹-轻轻地告诉你FHD,http://sh.yinyuetai.com/uploads/videos/common/A12701647C0F9F763096D7EC1C93052E.mp4
+杨钰莹-轻轻地告诉你HD2,http://he.yinyuetai.com/uploads/videos/common/1D5101647A879B573143C871ED5006AC.mp4
+杨钰莹-想起你的好HD,http://he.yinyuetai.com/uploads/videos/common/3447015D07F9ABC32F561C70BBDF0335.mp4
+杨钰莹-风含情水含笑HD,http://he.yinyuetai.com/uploads/videos/common/0FD001582939EEB9DB025FFCEBD32EFB.flv
+杨钰莹-风含情水含笑FHD,http://sh.yinyuetai.com/uploads/videos/common/021101582939EEB30D0592D40B6CC68E.mp4
+杨钰莹毛宁-在生命中的每一天HD,http://he.yinyuetai.com/uploads/videos/common/8D5A01575686A314E12C572FFA079ABD.flv
+杨钰莹毛宁-在生命中的每一天FHD,http://sh.yinyuetai.com/uploads/videos/common/CCA101575686A30C47D5A303F01BBA92.mp4
+杨钰莹-知道不知道HD,http://he.yinyuetai.com/uploads/videos/common/80A80153B7E9D1ED2B73F6AA91441FF2.flv
+杨钰莹-知道不知道FHD,http://sh.yinyuetai.com/uploads/videos/common/AFE70153B7E9D1E5D16C720ED288BC23.mp4
+杨钰莹-茶山情歌HD,http://he.yinyuetai.com/uploads/videos/common/00FC01582937C232CEBCDD33E90E713B.flv
+杨钰莹-茶山情歌FHD,http://sh.yinyuetai.com/uploads/videos/common/3A5601582937C22BA600EA3DEF98628D.mp4
+杨钰莹-心雨HD,http://he.yinyuetai.com/uploads/videos/common/9E06014D3D29EAD2F197A7C783AD7CCF.flv
+杨钰莹-心雨FHD,http://sh.yinyuetai.com/uploads/videos/common/D68D014D3D29EACB88C9F5497DF85472.mp4
+杨钰莹-你若安好就是晴天HD,http://he.yinyuetai.com/uploads/videos/common/C94A014D3DA05A5A0E5281F16A1D82C6.flv
+杨钰莹-你若安好就是晴天HD2,http://115.231.144.52/1/o/y/d/j/oydjvloitlnbbdtmcphwywfuvpazpg/he.yinyuetai.com/2A0C014809C56C074771EA92825CD8BA.flv
+杨钰莹-我在春天天等你HD,http://he.yinyuetai.com/uploads/videos/common/A6B60152EC59B3D0BA0969F1101A894A.flv
+杨钰莹-我不想说HD,http://he.yinyuetai.com/uploads/videos/common/DFC0013F6776B90F6679A46323097B7D.flv
+杨钰莹-我不想说HD2,http://he.yinyuetai.com/uploads/videos/common/EF1E015D89CB8D99A9A6AA0A4F9242BF.mp4
+卓依婷-窗外,http://he.yinyuetai.com/uploads/videos/common/5AAD015DA64B2D1493DEFADA411D9DAB.mp4
+卓依婷-妈妈的吻,http://he.yinyuetai.com/uploads/videos/common/29B50147768F6DC1192755682702B66C.flv
+卓依婷-久别的人,http://he.yinyuetai.com/uploads/videos/common/67C2013E351BE6BE3F9F0124108158EB.flv
+卓依婷-潇洒走一回,http://he.yinyuetai.com/uploads/videos/common/A4C501479088781CE0D6893FD4A09705.flv
+卓依婷-介绍,http://hd.yinyuetai.com/uploads/videos/common/4B26014CCB1354A7B2E3232CB4D8BF4A.flv
+卓依婷-大家一起来,http://hd.yinyuetai.com/uploads/videos/common/6D330147774F9FC3FAA5923916E9CD6F.flv
+卓依婷-春天的故事,http://he.yinyuetai.com/uploads/videos/common/1827147_he_CD630146085029C234B79808765DD00B.flv
+卓依婷-九寨沟的春天,http://he.yinyuetai.com/uploads/videos/common/ABB3013F1D301E39E4D98DF4A93C0263.flv
+卓依婷-小城故事,http://he.yinyuetai.com/uploads/videos/common/A92E014776F111406D673AD8D4D1FC29.flv
+卓依婷-999朵玫瑰,http://he.yinyuetai.com/uploads/videos/common/1813471_he_E98F0145C1580A1CD35FE0CA3D66F49B.flv
+卓依婷-潮湿的心,http://he.yinyuetai.com/uploads/videos/common/0C5E013E351BE885B9AB3A5F06C23E68.flv
+卓依婷-爱拼才会会赢,http://hc.yinyuetai.com/uploads/videos/common/BB88012CDED6D36F1B2F6018544CB88A.flv
+卓依婷-真的好想你,http://he.yinyuetai.com/uploads/videos/common/E38F013DF81E7C1AA228F929C216FAA2.flv
+卓依婷-山不转水转,http://he.yinyuetai.com/uploads/videos/common/1811319_he_18290145B677ECA6003C8772DB7D3790.flv
+卓依婷-纸飞机,http://he.yinyuetai.com/uploads/videos/common/901F0144F84E880BECB96A4A7C49A449.flv
+卓依婷-杜十娘HD,http://he.yinyuetai.com/uploads/videos/common/3F6B015C78715E1C63FC490A47F780AE.mp4
+江珊-梦里水乡,http://he.yinyuetai.com/uploads/videos/common/B7D7015D2BEF3050EB53F3FB514CC838.mp4
+唯美版风光片-梦里水乡HD,http://he.yinyuetai.com/uploads/videos/common/067D016189E92360C76AB79233CF1CC6.mp4
+清新版风光片-梦里水乡HD,http://he.yinyuetai.com/uploads/videos/common/3F1D015D179E1CF6E19365C81D74D08E.mp4
+音乐风光片DJ1,http://hd.yinyuetai.com/uploads/videos/common/D1F0016796D32C5622C33E38378673B5.mp4
+音乐风光片DJ2,http://he.yinyuetai.com/uploads/videos/common/FD9C0167963E4D4DDF140CCE025F740E.mp4
+陈瑞-红尘叹,http://he.yinyuetai.com/uploads/videos/common/043C01663F0B2FCD29FC148D62DF5179.mp4
+冷漠 石梅-水乡新娘HD,http://he.yinyuetai.com/uploads/videos/common/9A23013B43888C0F32371254F52C7546.flv
+冷漠 杨蔓-爱情算什么东西,http://he.yinyuetai.com/uploads/videos/common/5FB50163E3121702573820DEE0336661.mp4
+肖洋-行走的彩虹,http://he.yinyuetai.com/uploads/videos/common/E6780164FF55E70719CC37D27E7A51FD.mp4
+肖洋-天竺少女,http://he.yinyuetai.com/uploads/videos/common/B87D0164FF41456D7608399028E92E67.mp4
+肖洋-爱情独立日,http://he.yinyuetai.com/uploads/videos/common/0BDE0164FF0C64127CC22A282888E3B9.mp4#http://he.yinyuetai.com/uploads/videos/common/54580160FDAD52D186A29379DCBD98E9.mp4
+肖洋-无奈的思绪,http://he.yinyuetai.com/uploads/videos/common/B086015EA44CD9FF8FA2E38131EC5B38.mp4
+肖洋-舞女泪,http://he.yinyuetai.com/uploads/videos/common/CACB015EA77A70F10990BDA3AEC58916.mp4
+肖洋-天涯歌女,http://he.yinyuetai.com/uploads/videos/common/86A7015EB485C9483FA21BA96D9092EA.mp4
+肖洋-四季歌,http://he.yinyuetai.com/uploads/videos/common/95E9015EB46274698DD06F12B565B5E6.mp4
+肖洋-独立日,http://he.yinyuetai.com/uploads/videos/common/4CC6014247C6CEF1DBDAAEC873EB7150.flv
+肖洋-传奇,http://he.yinyuetai.com/uploads/videos/common/D141015EB44EF8825BEF81720D7E7B18.mp4
+乌兰托娅-火热的爱,http://he.yinyuetai.com/uploads/videos/common/42C601671164D175FB74D83B824962DC.mp4
+杨泽怡-天灯,http://he.yinyuetai.com/uploads/videos/common/076A01615F26B7C8CF358100AA107A40.mp4
+张可盈-铁墙,http://he.yinyuetai.com/uploads/videos/common/0DBD0165C6C9DF32E7A9002676F59820.mp4
+黄绮雯-雨,http://he.yinyuetai.com/uploads/videos/common/38A401670C0CE958224FFBE31C5907AB.mp4
+群星-未来已来,http://he.yinyuetai.com/uploads/videos/common/CE0E01671BADB14B6828A32E90ADC4E8.mp4
+双笙-春水积木,http://he.yinyuetai.com/uploads/videos/common/A5C70166EC282DF14CEC97919E97CB84.mp4
+黄龄-钗头凤,http://he.yinyuetai.com/uploads/videos/common/B1DF0166BDFB0E79EC98A05C3170BA35.mp4
+刘亦菲-毛毛雨,http://hc.yinyuetai.com/uploads/videos/common/9167012E5125382F72CAEFCD8ED92A9F.flv
+周艳泓-又见茉莉花,http://hc.yinyuetai.com/uploads/videos/common/D119012D13BF1668C44DDDFA4EE91448.flv
+张美晨-拥抱新时代,http://he.yinyuetai.com/uploads/videos/common/413001624614A8FAAFE69BB0722E5FC8.mp4
+苏子栖-梦里云烟,http://he.yinyuetai.com/uploads/videos/common/E3840161FAF2F82F6BE9E20D9AE0BF0D.mp4
+游美玲-爱上赤水,http://he.yinyuetai.com/uploads/videos/common/B7BA0161EA9CD643145C5D19998BC58F.mp4
+孙怡-等光HD,http://he.yinyuetai.com/uploads/videos/common/B13001668A1B6AA2B89C48D275D3A40C.mp4
+张琼-金月亮银月亮,http://he.yinyuetai.com/uploads/videos/common/8B56016705C9B24120C39C4AA4977E0C.mp4
+张韶涵-阳光空气,http://mvdown.kuwo.cn/e4b94a5800f0979fbd42593c80480718/5bf9fa46/resource/m2/48/67/1021002542.mp4
+张韶涵-为爱而活,http://mvdown.kuwo.cn/be81fd51c1118379a0b14777359316da/5bf9fae2/resource/m3/55/56/2841245877.mp4
+婚礼原创曲,http://he.yinyuetai.com/uploads/videos/common/6888016584ECED7ABD660359E861AB85.mp4
+以为爱情没有错,http://he.yinyuetai.com/uploads/videos/common/70130160E7B6CCA87030707241ABB29D.mp4
+白娘子传奇主题曲集锦,http://hd.yinyuetai.com/uploads/videos/common/2F73015870F9CC66C72FB4F0D4CBCE8C.mp4
+花为谁开pD,http://hd.yinyuetai.com/uploads/videos/common/258801605916EB4AACA6FC4634439091.mp4
+花为谁开HD,http://he.yinyuetai.com/uploads/videos/common/6ECB01605916EB408797E587E2E87132.mp4
+别港,http://hd.yinyuetai.com/uploads/videos/common/1E380154EB90B1A51F3DFE6241F6C5C6.flv
+郭静 韦安-风景旧曾谙,http://he.yinyuetai.com/uploads/videos/common/72080159003C3B3A51E3E9370A68A260.mp4
+张韶涵-阳光空气HD,http://he.yinyuetai.com/uploads/videos/common/C9C1015D2B07BB1ECE2B4E9746CDB5B7.mp4
+张韶涵-淋雨一直走 混响版,http://he.yinyuetai.com/uploads/videos/common/1E0801631452EA6E36ECA98599E18765.mp4
+张韶涵-淋雨一直走 现场版,http://he.yinyuetai.com/uploads/videos/common/DFB4013B54A0C4EA135532B196E41D75.flv
+东方少女-纯白的约定,http://he.yinyuetai.com/uploads/videos/common/D4A70167DEE69FE9F42DF6DD6AEC129F.mp4
+东方少女-东方少女,http://he.yinyuetai.com/uploads/videos/common/BDD301684AA8D04D5ABC8C20D1BA7CD4.mp4
+OYT女团-祈祷,http://he.yinyuetai.com/uploads/videos/common/15F4016AE8E7471D4C4135C0B91B0A36.mp4
+王奕心-今生的爱前世的债,http://hd.yinyuetai.com/uploads/videos/common/0AC3015A3C0DA8D390902BCB7B2AB3BB.mp4
+王奕心-小绵羊,http://he.yinyuetai.com/uploads/videos/common/92BE01564B9227CF10AFC46A322ED375.flv
+王奕心-吻不到爱的人,http://hd.yinyuetai.com/uploads/videos/common/399D015A4FDB3C05C3D2685CB6A9BCAE.mp4
+王青-诛仙,http://hd.yinyuetai.com/uploads/videos/common/C11E015DE43C75B23F4C9D48C684C898.mp4
+印子月-有没有一种可能,http://he.yinyuetai.com/uploads/videos/common/AB02016817921DD91C61B21CEC621716.mp4
+云朵-爱之永恒,http://he.yinyuetai.com/uploads/videos/common/A78B015B5D3277C101334806711BA055.mp4
+云朵-我在晚霞弹起琵琶,http://he.yinyuetai.com/uploads/videos/common/E23A01660053FDAB79310B770374B95C.mp4
+王雅宁-春意荡漾,http://he.yinyuetai.com/uploads/videos/common/92670167DFBA13A9639438DF9F2A28F6.mp4
+snh48-此刻到永远,http://he.yinyuetai.com/uploads/videos/common/08EC0167E52F36AF0433CABBBD2945AB.mp4
+景甜-还爱你,http://hc.yinyuetai.com/uploads/videos/common/A1E501277C627C9B73A16484849F73F6.flv
+景甜-不懂爱,http://hc.yinyuetai.com/uploads/videos/common/DA48012C444FAC5113DD29B3FFF9C7CB.flv
+snh48-光之轨迹,http://he.yinyuetai.com/uploads/videos/common/4FD901674EFE5FA6949223430B300C64.mp4
+sing乐团-千年,http://he.yinyuetai.com/uploads/videos/common/D8950167B48CB240199627FC2CC292A1.mp4
+孟美齐-原始时代,http://he.yinyuetai.com/uploads/videos/common/B88001684F6A54E6C457D63CF650D756.mp4
+火箭少女-福气财气一起来,http://he.yinyuetai.com/uploads/videos/common/B66A01684F8817331D19463F6D974C6D.mp4
+火箭少女-Light,http://he.yinyuetai.com/uploads/videos/common/B9D5016618AFECD3CC41C37B7F4E1A9B.mp4
+胡先煦李兰迪-答案,http://he.yinyuetai.com/uploads/videos/common/E62D01680C7AE6207F15F31EA1E4DCAB.mp4
+鞠婧伊-青城山下白素贞HD,http://he.yinyuetai.com/uploads/videos/common/5166015E738323B98216013F154E376B.mp4
+鞠婧伊-约定 & 风铃 & 盛夏好声音,http://he.yinyuetai.com/uploads/videos/common/271D015968BCE3614BADABD1102943BB.mp4
+鞠婧伊-媚者无疆,http://he.yinyuetai.com/uploads/videos/common/D4940165EFDA6523BD4C762827525BF3.mp4
+1931女团-并肩闪耀HD,http://he.yinyuetai.com/uploads/videos/common/C482015BA2B9A915FBAF697C41A3A565.mp4
+1931女团-我看见HD,http://he.yinyuetai.com/uploads/videos/common/9AA401576212CE3177657F0DC86AF893.flv
+1931女团-加糖情歌HD,http://he.yinyuetai.com/uploads/videos/common/40BB0151B9193D2174639C70164398C4.flv
+1931女团-梦想岛HD,http://he.yinyuetai.com/uploads/videos/common/B4F8015D2FB6F58293C875A5FD0E45DF.mp4
+1931女团-梦想岛(风景版)HD,http://he.yinyuetai.com/uploads/videos/common/00E40161E5AB69BAC52C1ABB423858B5.mp4
+snh48-热情的沙漠,http://he.yinyuetai.com/uploads/videos/common/C5B401650418415CFC476CB9AB963E2C.mp4
+snh48-魔女的诗篇,http://he.yinyuetai.com/uploads/videos/common/BCBD016676471F30E200FBD7B1B0B641.mp4
+SNH48-初恋蝴蝶,http://he.yinyuetai.com/uploads/videos/common/E745015D507DE811B4D4D5D37C5CE6EC.mp4
+SNH48-歌唱祖国,http://he.yinyuetai.com/uploads/videos/common/00E30161CBFAD5B4FF70EE4C9299DBE0.mp4
+SNH48-我的世界还有你,http://he.yinyuetai.com/uploads/videos/common/D81C01615F21824F92332F3353FCE92C.mp4
+snh48-盛夏好声音HD,http://he.yinyuetai.com/uploads/videos/common/5381015673270AD06B9F3796F3C6FCF7.flv
+snh48-lalala,http://he.yinyuetai.com/uploads/videos/common/683A0163C506A326083FB49D5F431322.mp4
+snh48-好运来,http://he.yinyuetai.com/uploads/videos/common/0E7C01609E05910560CD18EF52000FE8.mp4
+snh48-夏日柠檬船,http://he.yinyuetai.com/uploads/videos/common/CEA0015C5CEBF029292419EF3BF32E69.mp4
+snh48-钟无艳,http://he.yinyuetai.com/uploads/videos/common/592B0166A9B86429A0CF219FE49043D7.mp4
+snh48-天空信,http://he.yinyuetai.com/uploads/videos/common/37520166C96A9E16154DB07B9341A4A1.mp4
+snh48-星星闪亮,http://he.yinyuetai.com/uploads/videos/common/4C02016705A0212D86ACE6702A3E6912.mp4
+snh48-那好吧,http://he.yinyuetai.com/uploads/videos/common/AFC60166F88DAB340A5C81D13301183F.mp4
+snh48-mima,http://he.yinyuetai.com/uploads/videos/common/7E980165C2C0DD259FA48A203D0BF8B2.mp4
+snh48-那年夏天的梦,http://he.yinyuetai.com/uploads/videos/common/CAA4016AE92851519DB061EB80314A40.mp4
+申雨鹭-ABC,http://he.yinyuetai.com/uploads/videos/common/457C016AF728E6B66C556F7ED15C8A2F.mp4
+任家萱-管不着,http://hc.yinyuetai.com/uploads/videos/common/C9D3016ADEA02CC4B73A00C74057BF1F.mp4
+七朵组合-江南夜 舞蹈版,http://he.yinyuetai.com/uploads/videos/common/C04D0166D2EEE522F37878EE53DBC977.mp4
+七朵组合-江南夜 官方版,http://he.yinyuetai.com/uploads/videos/common/619A0166F60673661A5E433A31ED2908.mp4
+萌萌哒天团-萌萌哒HD,http://he.yinyuetai.com/uploads/videos/common/A5D3014BD8B041773392904607E12749.flv
+萌萌哒天团-轮回HD,http://he.yinyuetai.com/uploads/videos/common/B5720157AE6A67E678785D202E6A7560.flv
+童可可-萌萌哒HD,http://he.yinyuetai.com/uploads/videos/common/C2D101523B23ED4E4414AE72A7B5D540.flv
+风小筝-桃花雪,http://he.yinyuetai.com/uploads/videos/common/FCC6016632768FD4FFF341CE1877EEA4.mp4
+极乐净土多版合辑,http://hd.yinyuetai.com/uploads/videos/common/E6E6015C633D71B8A4C76BF16FD7F116.mp4
+四只小天鹅HD,http://he.yinyuetai.com/uploads/videos/common/699101510B9B693618C46BAE3D5BC12D.flv
+四只小天鹅PD,http://hd.yinyuetai.com/uploads/videos/common/FD6E01510B9B693DB795CF1023E13592.flv
+天鹅之死,http://hc.yinyuetai.com/uploads/videos/common/17F9014D10D2320B0F740419E6E1CE9F.flv
+天鹅湖片段,http://he.yinyuetai.com/uploads/videos/common/1A25014B44737593C3120E4E985CE0D5.flv
+胡桃夹子糖果仙女hd,http://hd.yinyuetai.com/uploads/videos/common/B3D9014BFC4D0E48A22C3E6ECF0E3231.flv
+华尔兹群舞HD,http://he.yinyuetai.com/uploads/videos/common/FC240157EF113D79994CF967233FBA7C.flv
+喀秋莎HD,http://he.yinyuetai.com/uploads/videos/common/3707013FD3102D481FC3E9584744F1D5.flv
+喀秋莎PD,http://hd.yinyuetai.com/uploads/videos/common/31A5013FD2D5955684498E8B35093599.flv
+韩舞,http://he.yinyuetai.com/uploads/videos/common/BE9A016721F6EB5C1ADD992CFF7C5EEF.mp4
+韩国女团MV1,http://k.syasn.com/f/f211?k1=149.28.90.29&k2=csf2avzddt&k3=776f7222df19a60930dd1d9bb280961d&k4=557bb5614e7e0c065b34b52763f9715e&k5=f211&k6=f8df7f783c1150428867b35a6b9543e6_458b7f60b7435b614d1ac6719b24714c&k7=123&g=0
+韩国女团MV2,http://k.syasn.com/k/k737?k1=149.28.90.29&k2=csf2avzddt&k3=45dfcc6086a3076f4a3dda5edf82f7b4&k4=5ec33e0cfaf870c55d550521231f8beb&k5=k737&k6=1f52376f76e66ce2e6ed02efc82edb56_241be3a249ab4142ddd22db6fac3baeb&k7=123&g=0
+韩国女团MV3,http://k.syasn.com/k/k723?k1=149.28.90.29&k2=csf2avzddt&k3=66f0ff28a0a33c31600fc5408c764c63&k4=569ea222f112dd1d7f78e4903950763e&k5=k723&k6=b16f26b2e248885605c97484c3c90505_2fa7c172b8467d6cb7fa1adba9ae819a&k7=123&g=0
+韩国女团MV4,http://k.syasn.com/k/k718?k1=149.28.90.29&k2=csf2avzddt&k3=cab0021d030bab4f797654d2cb56e68b&k4=9a37ea68f909d893d77a21352f1e0506&k5=k718&k6=4356cf3584fa6d60961f560b92807680_43dcce20a11ec419c1ff7676bbccde34&k7=123&g=0
+韩国女团MV5,http://k.syasn.com/k/k717?k1=149.28.90.29&k2=csf2avzddt&k3=7e5a84b77fafd75f843616dca3d1ce0a&k4=6118c9970fcf4c71d8c974011c1da346&k5=k717&k6=d98de1382c740e6561943d4a5feb1cd9_aaaddb7f6b4c45eb05042439585b83d6&k7=123&g=0
+韩国女团MV6,http://k.syasn.com/k/k705?k1=149.28.90.29&k2=csf2avzddt&k3=5f2fadcd391ca00c038f2595e53ef4f3&k4=a38a390e31e043c994fe29a68177d083&k5=k705&k6=67d308ca49108ad69a09b71dcef9b687_e06e64cdf763060730b65c9074579b41&k7=123&g=0
+韩国女团MV7,http://k.syasn.com/k/k677?k1=149.28.90.29&k2=csf2avzddt&k3=881ac880594c78789f2b9463a3904cd2&k4=c83a9029f0b0609e767a1547ef208d4d&k5=k677&k6=bcbad0e9a9b284029a4fd3b32ee09555_2f991768682ea7ebbbdbb57c1e02f9dd&k7=123&g=0
+韩国女团MV8,http://k.syasn.com/k/k111?k1=149.28.90.29&k2=csf2avzddt&k3=c5d919cfec957a74f897eb4b0574c3e6&k4=528c93821b1590fc4de3217c2c77caa7&k5=k111&k6=77f5f2316e02d8cb97a93167eb553f0a_d9a5d2bc960440633a66942cfc4581bb&k7=123&g=0
+韩国女团MV9,http://k.syasn.com/k/k638?k1=149.28.90.29&k2=csf2avzddt&k3=48f64f589033a65b8d5b118aca4d4931&k4=bf989a1adf79c2b69e03da7977fbc520&k5=k638&k6=d3b3901db4ca7339e9380f38fe47934a_b1dd00c106af89917fc47a7e12279b0c&k7=123&g=0
+韩国女团MV10,http://k.syasn.com/k/k472?k1=149.28.90.29&k2=csf2avzddt&k3=af78a6a3ce52685c45730a9a0a0f3f76&k4=464aedf8bdfc612726367631ab65c8f7&k5=k472&k6=b704f7bd5d1147b80eb2357dda69683a_d168d02af929ee2eeea002952267ef73&k7=123&g=0
+韩国女团MV11,http://k.syasn.com/k/k34?k1=149.28.90.29&k2=csf2avzddt&k3=21a4a9dee79afefa05f9bf7573374a8e&k4=0f53b18ed80cf9997aed08f8f3f3f47c&k5=k34&k6=12f8fa1bfab5b5142398832bdbb1aa2a_0725451d5ee0d2238840d10c000edd13&k7=123&g=0
+韩国女团MV12,http://k.syasn.com/k/k51?k1=149.28.90.29&k2=csf2avzddt&k3=a557c5d0d44af3a92975a855681df90e&k4=a41c3edb27bfebc7c81a14ff6a31ba84&k5=k51&k6=0fff898e5d2782e071ecfe45c941f258_a70eaad553b9b32f878c195c6295146d&k7=123&g=0
+韩国女团MV13,http://k.syasn.com/k/k63?k1=149.28.90.29&k2=csf2avzddt&k3=c202c54f332adcb8c9927a96b832bd8d&k4=8456b83dbd822fab6cf99bdc15300886&k5=k63&k6=8e61c5fbf36d8324ed989131a8919ff4_fe347f82556012084d87ad3aac460650&k7=123&g=0
+韩国女团MV14,http://k.syasn.com/k/k79?k1=149.28.90.29&k2=csf2avzddt&k3=7c335067da4565ab53151bfb7235182f&k4=f2320831c274e32733e06f22c834e43d&k5=k79&k6=2836aea356186a4288fb5d043467ab9b_371747a8025945d9164b717a217fd90e&k7=123&g=0
+爱爱爱,http://he.yinyuetai.com/uploads/videos/common/D414016B0CBAEC0E8DA447840AD664CF.mp4
+MM-mm,http://he.yinyuetai.com/uploads/videos/common/D28E016AE8ADB9A4921F6871078EDCA2.mp4
+NC-A,http://he.yinyuetai.com/uploads/videos/common/448F016B0CBBDF4D7D6015BA9B03EB90.mp4
+ai粉见面会,http://he.yinyuetai.com/uploads/videos/common/6C3A016AFE28F93308CC58799DA9C55A.mp4
+大壮-我们不一样,http://he.yinyuetai.com/uploads/videos/common/98F3015F0406E42A6C8D162EE526A290.mp4
+许志安-为什么你背着我爱别人,http://he.yinyuetai.com/uploads/videos/common/6D170141AC5392013C1326C9FCCF6793.flv
+韩雪-想起,http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/c0b3aca2daef4f37ba8b0391b44ba58d/2000.m3u8
+小潘潘-学猫叫,http://sh.yinyuetai.com/uploads/videos/common/C18101641B5D4B4FE21F8ABC101F4A42.mp4
+A-Lin-别在伤口撒盐,http://hc.yinyuetai.com/uploads/videos/common/9BA7013A26DABBBAB0885550C18198AC.flv
+林慧萍-情难枕,http://he.yinyuetai.com/uploads/videos/common/ACD5014908FD8D8F4368967BEBD13BF3.flv
+黄韵玲-有一点动心,http://he.yinyuetai.com/uploads/videos/common/BC160141EF56B8CB2DF8B72B582F0868.flv
+孟庭苇-往事,http://hd.yinyuetai.com/uploads/videos/common/0830015D791C992C33A35A498CC84F19.mp4
+孟庭苇-谁的眼泪在飞,http://hd.yinyuetai.com/uploads/videos/common/FDFB016349B8B7189C2E62522E9FF270.mp4
+孟庭苇-冬季到台北来看雨,http://hd.yinyuetai.com/uploads/videos/common/3ACE01429D122064CBF7960DD02F004F.flv
+刘若英-后来,http://hd.yinyuetai.com/uploads/videos/common/50FE015E77CE7C7885D45A559B598347.mp4
+刘若英-当爱在靠近,http://hd.yinyuetai.com/uploads/videos/common/BCF10146FB8CB5FBE4FC740A8AEAA7C9.flv
+金海心-我要找到你,http://hd.yinyuetai.com/uploads/videos/common/C41E01597298F578F045C1A958FC003F.mp4
+林志炫-单身情歌,http://hd.yinyuetai.com/uploads/videos/common/615A014DBE45A31C76D9E3ADA1CD73E2.flv
+刘德华-一起走过的日子,http://hc.yinyuetai.com/uploads/videos/common/57E501397F03351989F1BFE7F2D6FBB1.flv
+陈慧琳-记事本,http://hd.yinyuetai.com/uploads/videos/common/205401488F0AA65EE5678714E1B25AD8.flv
+陈冠蒲-太多,http://hd.yinyuetai.com/uploads/videos/common/0E8C0165B8798CDAC5191AC929C75E02.mp4
+王杰-爱的太多,http://hd.yinyuetai.com/uploads/videos/common/A3290162063AB08D8554F1CB56396BFA.mp4
+梁静茹-崇拜,http://hd.yinyuetai.com/uploads/videos/common/FA6401454F4AE6E77A0702E1B21B4C5E.flv
+欢子-再见再也不见,http://hd.yinyuetai.com/uploads/videos/common/8B42016164848702FD4A9A1A494DDD49.mp4
+欢子-心痛2009,http://hd.yinyuetai.com/uploads/videos/common/991401448BA61010E000BDDCD27316D6.flv
+欢子-得到你的人却得不到你的心,http://hd.yinyuetai.com/uploads/videos/common/CD2901448C4F6F7966A13B8C5533860E.flv
+欢子-伤心的时候可以听情歌,http://hd.yinyuetai.com/uploads/videos/common/E88C01449278E3A30135084345B63875.flv
+六哲-相爱分开都是罪,http://hd.yinyuetai.com/uploads/videos/common/8CBF0159A824489AA5F3895D247CDC82.mp4
+六哲-错错错,http://hd.yinyuetai.com/uploads/videos/common/DFBC014F4E807E21B7836E5BDC525A84.flv
+六哲-被伤过的心还可以爱谁,http://hc.yinyuetai.com/uploads/videos/common/EDDB013332EF519CAE6F79A2FA199315.flv
+六哲-如果没有他你还爱我吗,http://hc.yinyuetai.com/uploads/videos/common/D879012EAD73E0709AE29CDEC017372E.flv
+六哲-会受伤的人只有一种可能,http://hd.yinyuetai.com/uploads/videos/common/721A01375DC1A809F06074977426765A.flv
+六哲-舍不得也要说再见,http://hc.yinyuetai.com/uploads/videos/common/0A6A012E2A638D40F7A82CB44846B1E1.flv
+郑源-包容,http://hd.yinyuetai.com/uploads/videos/common/51A7014CEF4BCA66F9244FA385997C63.flv
+郑源-爱情码头,http://hd.yinyuetai.com/uploads/videos/common/DCB8014D2D1E2123095CB6A9D07487C8.flv
+郑源-一万个理由,http://hd.yinyuetai.com/uploads/videos/common/2D99014D6671BF988121AA08B7EFE80B.flv
+郑源-曾经爱过你,http://hc.yinyuetai.com/uploads/videos/common/24380139DB52CC4E77081AC2BCC9DE71.flv
+郑源-难道爱一个人有错吗,http://hc.yinyuetai.com/uploads/videos/common/F433012C34DA9703B38B4CC864616930.flv
+郑源-不要在我寂寞的时候说爱我,http://hc.yinyuetai.com/uploads/videos/common/A7FB01295B613555E3BC3DB24464FD46.flv
+郑源-难道是我上辈子欠了你,http://hd.yinyuetai.com/uploads/videos/common/DC4B013ECF4B0762C53D70DC390FD55B.flv
+姜玉阳-秋风落叶,http://hc.yinyuetai.com/uploads/videos/common/8E410135F8EB6BA0B0D7478FDB1600ED.flv
+姜玉阳-忘不掉的伤,http://hc.yinyuetai.com/uploads/videos/common/220901319392C43F939778754B9F513F.flv
+姜玉阳-爱情惹的祸,http://hc.yinyuetai.com/uploads/videos/common/E0C80131931D6E12570DB5E7CD65058D.flv
+姜玉阳-刻骨的温柔,http://cloud.video.taobao.com/play/u/1748679248/p/2/e/3/t/1/15883785.m3u8
+杨柏安-爱上你是一个错,http://hc.yinyuetai.com/uploads/videos/common/593C01354DD4BF0127D0C54B80653D7A.flv
+华语群星-感恩的心,http://hd.yinyuetai.com/uploads/videos/common/3A3E01659DD865FE0C56229561FE4596.mp4
+王心凌-我会好好的,http://hc.yinyuetai.com/uploads/videos/common/8153012D1E870D4F4CAB88333BD9FE16.flv
+混音 Ⅰ 又一次,http://www.zuori.cc/index/downloads?d=43165&v=x65ewivb
+混音 Ⅰ 说再见,http://www.zuori.cc/index/downloads?d=43165&v=TlDRyscJ
+舞曲 Ⅰ 给我希望,http://www.zuori.cc/index/downloads?d=43165&v=vQv8Jghp
+夜店 Ⅰ 极乐之地,http://www.zuori.cc/index/downloads?d=43165&v=H8ks6Ms9
+夜店 Ⅰ 兔宝派对,http://www.zuori.cc/index/downloads?d=43165&v=Cr7SkGWS
+夜店 Ⅰ 晃动派对,http://www.zuori.cc/index/downloads?d=43165&v=4FYekfVm
+夜店 Ⅰ 热舞派对,http://www.zuori.cc/index/downloads?d=43165&v=B851OVy4
+夜店 Ⅰ 自由摇摆,http://www.zuori.cc/index/downloads?d=43165&v=FrEeSdpp
+夜店 Ⅰ 迷幻派对,http://www.zuori.cc/index/downloads?d=43165&v=2s8suP4x
+混音 Ⅰ 夏季音乐,http://www.zuori.cc/index/downloads?d=43165&v=uiDVfP05
+混音 Ⅰ 尼基图萨,http://www.zuori.cc/index/downloads?d=43165&v=OWCYnMJy
+混音 Ⅰ 德国童声,http://www.zuori.cc/index/downloads?d=43165&v=IcxjnS95 
+嗨曲 Ⅰ 大卫巴德,http://www.zuori.cc/index/downloads?d=43165&v=EjbLheOF
+混音 Ⅰ 梦的海洋,http://www.zuori.cc/index/downloads?d=43165&v=rgNqNrTn
+混音 Ⅰ 樱桃多汁,http://www.zuori.cc/index/downloads?d=43165&v=PeLb0VTe
+混音 Ⅰ 沙漠之魂,http://www.zuori.cc/index/downloads?d=43165&v=SLnC86fA
+混音 Ⅰ 独自生活,http://www.zuori.cc/index/downloads?d=43165&v=qh7cGgss
+混音 Ⅰ 简单快乐,http://www.zuori.cc/index/downloads?d=43165&v=ePpKWpqn
+混音 Ⅰ 美丽的人说,http://www.zuori.cc/index/downloads?d=43165&v=6lD80AFR
+车舞 Ⅰ 黑色比基尼,http://www.zuori.cc/index/downloads?d=43165&v=Vv5vUlsM
+夜店 Ⅰ 调情俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=acPB0w06
+夜店 Ⅰ 比基尼派对,http://www.zuori.cc/index/downloads?d=43165&v=OvuRosJO
+夜店 Ⅰ 尬舞俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=6coAxHVF
+夜店 Ⅰ 慕尼黑聚会,http://www.zuori.cc/index/downloads?d=43165&v=54M0khyO
+夜店 Ⅰ 两姐妹领舞,http://www.zuori.cc/index/downloads?d=43165&v=4xHguSxl
+混音 Ⅰ 迪斯科舞曲,http://www.zuori.cc/index/downloads?d=43165&v=sVUrPAkF
+电音 Ⅰ 做我的爱人,http://www.zuori.cc/index/downloads?d=43165&v=RaQAd2ef
+电音 Ⅰ 最好的一面,http://www.zuori.cc/index/downloads?d=43165&v=kJOLL7qs
+派对 Ⅰ 麦王滑板车,http://www.zuori.cc/index/downloads?d=43165&v=f4Mf7Sou
+舞曲 Ⅰ 大家都跳舞,http://www.zuori.cc/index/downloads?d=43165&v=VdI9HOwH
+舞曲 Ⅰ 极速鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=VSUEF0Sq
+舞曲 Ⅰ 再一次鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=R4SIsRRH
+混音 Ⅰ 温柔的抚摸我,http://www.zuori.cc/index/downloads?d=43165&v=nO3nU3vC
+夜店 Ⅰ 俱乐部的一天,http://www.zuori.cc/index/downloads?d=43165&v=v2cu36ks
+夜店 Ⅰ 狂野的俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=I7plIu2a
+派对 Ⅰ 我们如何聚会,http://www.zuori.cc/index/downloads?d=43165&v=GphYWFNW
+电音 Ⅰ 永远在你身边,http://www.zuori.cc/index/downloads?d=43165&v=DqPafWf2
+电音 Ⅰ 美女沙滩大海,http://www.zuori.cc/index/downloads?d=43165&v=h8SKIzR4
+百大DJ Ⅰ 活在黑夜里,http://www.zuori.cc/index/downloads?d=43165&v=LNnplfDT
+车舞 Ⅰ 泰国迷你直通车,http://www.zuori.cc/index/downloads?d=43165&v=lpWRRLUD
+车舞 Ⅰ 泰国比基尼舞蹈,http://www.zuori.cc/index/downloads?d=43165&v=U9kkGlvv
+车舞 Ⅰ 泰国跳舞家族聚会,http://www.zuori.cc/index/downloads?d=43165&v=HXPFyvSW
+车舞 Ⅰ 黎明前的泰国美眉,http://www.zuori.cc/index/downloads?d=43165&v=vJeUyqpy
+舞曲 Ⅰ 风靡一时的鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=BnnJWufX
+车舞 Ⅰ 泰国三美女比基尼,http://www.zuori.cc/index/downloads?d=43165&v=kt81QJUJ
+车舞 Ⅰ 泰国超甜美丽模特,http://www.zuori.cc/index/downloads?d=43165&v=njEPbOh5
+派对 Ⅰ 迈阿密音乐节克鲁斯,http://www.zuori.cc/index/downloads?d=43165&v=XEX5F0J1
+走秀 Ⅰ 祝贺男人比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=fe0MmmdY
+车舞 Ⅰ 泰国波动比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
+车舞 Ⅰ 泰国郊郎蓝色比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
+$c_startMTV音乐$c_end
+混音 Ⅰ 说再见,http://www.zuori.cc/index/downloads?d=43165&v=TlDRyscJ
+舞曲 Ⅰ 给我希望,http://www.zuori.cc/index/downloads?d=43165&v=vQv8Jghp
+夜店 Ⅰ 极乐之地,http://www.zuori.cc/index/downloads?d=43165&v=H8ks6Ms9
+夜店 Ⅰ 兔宝派对,http://www.zuori.cc/index/downloads?d=43165&v=Cr7SkGWS
+夜店 Ⅰ 晃动派对,http://www.zuori.cc/index/downloads?d=43165&v=4FYekfVm
+夜店 Ⅰ 热舞派对,http://www.zuori.cc/index/downloads?d=43165&v=B851OVy4
+夜店 Ⅰ 自由摇摆,http://www.zuori.cc/index/downloads?d=43165&v=FrEeSdpp
+夜店 Ⅰ 迷幻派对,http://www.zuori.cc/index/downloads?d=43165&v=2s8suP4x
+混音 Ⅰ 夏季音乐,http://www.zuori.cc/index/downloads?d=43165&v=uiDVfP05
+混音 Ⅰ 尼基图萨,http://www.zuori.cc/index/downloads?d=43165&v=OWCYnMJy
+混音 Ⅰ 德国童声,http://www.zuori.cc/index/downloads?d=43165&v=IcxjnS95 
+嗨曲 Ⅰ 大卫巴德,http://www.zuori.cc/index/downloads?d=43165&v=EjbLheOF
+混音 Ⅰ 梦的海洋,http://www.zuori.cc/index/downloads?d=43165&v=rgNqNrTn
+混音 Ⅰ 樱桃多汁,http://www.zuori.cc/index/downloads?d=43165&v=PeLb0VTe
+混音 Ⅰ 沙漠之魂,http://www.zuori.cc/index/downloads?d=43165&v=SLnC86fA
+混音 Ⅰ 独自生活,http://www.zuori.cc/index/downloads?d=43165&v=qh7cGgss
+混音 Ⅰ 简单快乐,http://www.zuori.cc/index/downloads?d=43165&v=ePpKWpqn
+混音 Ⅰ 美丽的人说,http://www.zuori.cc/index/downloads?d=43165&v=6lD80AFR
+车舞 Ⅰ 黑色比基尼,http://www.zuori.cc/index/downloads?d=43165&v=Vv5vUlsM
+夜店 Ⅰ 调情俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=acPB0w06
+夜店 Ⅰ 比基尼派对,http://www.zuori.cc/index/downloads?d=43165&v=OvuRosJO
+夜店 Ⅰ 尬舞俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=6coAxHVF
+夜店 Ⅰ 慕尼黑聚会,http://www.zuori.cc/index/downloads?d=43165&v=54M0khyO
+夜店 Ⅰ 两姐妹领舞,http://www.zuori.cc/index/downloads?d=43165&v=4xHguSxl
+混音 Ⅰ 迪斯科舞曲,http://www.zuori.cc/index/downloads?d=43165&v=sVUrPAkF
+电音 Ⅰ 做我的爱人,http://www.zuori.cc/index/downloads?d=43165&v=RaQAd2ef
+电音 Ⅰ 最好的一面,http://www.zuori.cc/index/downloads?d=43165&v=kJOLL7qs
+派对 Ⅰ 麦王滑板车,http://www.zuori.cc/index/downloads?d=43165&v=f4Mf7Sou
+舞曲 Ⅰ 大家都跳舞,http://www.zuori.cc/index/downloads?d=43165&v=VdI9HOwH
+舞曲 Ⅰ 极速鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=VSUEF0Sq
+舞曲 Ⅰ 再一次鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=R4SIsRRH
+混音 Ⅰ 温柔的抚摸我,http://www.zuori.cc/index/downloads?d=43165&v=nO3nU3vC
+夜店 Ⅰ 俱乐部的一天,http://www.zuori.cc/index/downloads?d=43165&v=v2cu36ks
+夜店 Ⅰ 狂野的俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=I7plIu2a
+派对 Ⅰ 我们如何聚会,http://www.zuori.cc/index/downloads?d=43165&v=GphYWFNW
+电音 Ⅰ 永远在你身边,http://www.zuori.cc/index/downloads?d=43165&v=DqPafWf2
+电音 Ⅰ 美女沙滩大海,http://www.zuori.cc/index/downloads?d=43165&v=h8SKIzR4
+百大DJ Ⅰ 活在黑夜里,http://www.zuori.cc/index/downloads?d=43165&v=LNnplfDT
+车舞 Ⅰ 泰国迷你直通车,http://www.zuori.cc/index/downloads?d=43165&v=lpWRRLUD
+车舞 Ⅰ 泰国比基尼舞蹈,http://www.zuori.cc/index/downloads?d=43165&v=U9kkGlvv
+车舞 Ⅰ 泰国跳舞家族聚会,http://www.zuori.cc/index/downloads?d=43165&v=HXPFyvSW
+车舞 Ⅰ 黎明前的泰国美眉,http://www.zuori.cc/index/downloads?d=43165&v=vJeUyqpy
+舞曲 Ⅰ 风靡一时的鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=BnnJWufX
+车舞 Ⅰ 泰国三美女比基尼,http://www.zuori.cc/index/downloads?d=43165&v=kt81QJUJ
+车舞 Ⅰ 泰国超甜美丽模特,http://www.zuori.cc/index/downloads?d=43165&v=njEPbOh5
+派对 Ⅰ 迈阿密音乐节克鲁斯,http://www.zuori.cc/index/downloads?d=43165&v=XEX5F0J1
+走秀 Ⅰ 祝贺男人比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=fe0MmmdY
+车舞 Ⅰ 泰国波动比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
+车舞 Ⅰ 泰国郊郎蓝色比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
+花姐 Ⅰ 狂浪DJ,http://www.zuori.cc/index/downloads?d=43165&v=6zdYTEO6
+暴林 Ⅰ 殇雪DJ,http://www.zuori.cc/index/downloads?d=43165&v=MXMgq6BW
+于文文 Ⅰ 体面DJ,http://www.zuori.cc/index/downloads?d=43165&v=7Oea574a
+孙艺琪 Ⅰ 情火DJ,http://www.zuori.cc/index/downloads?d=43165&v=U8EDn16E
+寂悸 Ⅰ 潮湿的心DJ,http://www.zuori.cc/index/downloads?d=43165&v=nSt1GrE5
+安琪 Ⅰ 曾经被爱DJ,http://www.zuori.cc/index/downloads?d=43165&v=O9OqWF6d
+粤语 Ⅰ 因为爱你DJ,http://www.zuori.cc/index/downloads?d=43165&v=VPxlpaoT
+郑伊涵 Ⅰ 公虾米DJ,http://www.zuori.cc/index/downloads?d=43165&v=g9VskQ8m
+龚玥菲 Ⅰ 夜上海DJ,http://www.zuori.cc/index/downloads?d=43165&v=rbkJF5GO
+王思佳 Ⅰ 哦哦哦DJ,http://www.zuori.cc/index/downloads?d=43165&v=rPR7pEDi
+杭娇 Ⅰ 忘了我的爱DJ,http://www.zuori.cc/index/downloads?d=43165&v=1Tr1O15w
+郭玲 Ⅰ 拥抱你离去DJ,http://www.zuori.cc/index/downloads?d=43165&v=tFlFt45a
+魏新雨 Ⅰ 为你祈祷DJ,http://www.zuori.cc/index/downloads?d=43165&v=81EPvKd5
+杨妹儿 Ⅰ 孤单为伴DJ,http://www.zuori.cc/index/downloads?d=43165&v=JLsdfUMo
+唐古 Ⅰ 突然好想念DJ,http://www.zuori.cc/index/downloads?d=43165&v=0yFX47z6
+张文绮 Ⅰ 三分钟热度DJ,http://www.zuori.cc/index/downloads?d=43165&v=aaNkA4dQ
+孙耀威 Ⅰ 爱的故事上集DJ,http://www.zuori.cc/index/downloads?d=43165&v=0kmgijwc
+越南语 Ⅰ 失恋阵线联盟DJ,http://www.zuori.cc/index/downloads?d=43165&v=1LwHVY6I
+彭丽嘉 Ⅰ 爱着你宠着你DJ,http://www.zuori.cc/index/downloads?d=43165&v=RVKFm7E4
+孙艺琪 Ⅰ 苍天不负有情人DJ,http://www.zuori.cc/index/downloads?d=43165&v=Hswt4vOf
+浪哥 Ⅰ 下辈子也要找到你DJ,http://www.zuori.cc/index/downloads?d=43165&v=xS3bt8uo
+王奕心 Ⅰ 我的唇吻不到我爱的人DJ,http://www.zuori.cc/index/downloads?d=43165&v=TNlvijwq
+阿妮桑-伤的都是有情人,http://he.yinyuetai.com/uploads/videos/common/5F2E01660A27B8BEAA57CDA3E088D41A.mp4
+刘诗诗-离愁,http://hc.yinyuetai.com/C9C60162C6F976958577EA1EC2E3489B.mp4
+笑红尘,http://hc.yinyuetai.com/62880164F5C02F8452FA196F689A010B.mp4
+$c_start高清数字$c_end
+CIBN电影,http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN嗨播,http://cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN军事,http://cinb1.peoplevideo.cn/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN生活,http://cinb1.peoplevideo.cn/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN怡家,http://cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN汽车,http://cinb1.peoplevideo.cn/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN健康,http://cibn.peoplevideo.cn/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN新知,http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN映画,http://gqys.lbcl02.cibn.cc/hls/vCIBNHGPD/1800/vCIBNHGPD.m3u8?k=e25bf187220df857c9b65be137e3d133&channel=xlmediawatch&t=1581221781&ttl=86400&type=3&videotype=loop
+CIBN好物,http://gqys.lbcl01.cibn.cc/hls/vCIBNFSPD/1800/vCIBNFSPD.m3u8?k=11a758f2c53d578c7b4c9b4d06449fda&channel=xlmediawatch&t=1581223007&ttl=86400&type=3&videotype=loop
+CIBN好莱坞,http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
+CIBN微电影,http://cinb1.peoplevideo.cn/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN汉学院,http://cinb1.peoplevideo.cn/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN纪录片,http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSecret=b58297c2170067d9164da6f2f86d3059
+CIBN全电竞,http://gqys.zslb.cibn.cc/hls/vCIBNVSPN/1800/vCIBNVSPN.m3u8?k=2ecee7b864ce68d19a49c7ea00be891e&channel=xlmediawatch&t=1581222082&ttl=86400&type=3&videotype=loop
+CIBN院线大片,http://cibn.peoplevideo.cn/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
+CIBN精品影院,http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN流金岁月,http://cibn.peoplevideo.cn/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?wsSecret=5f38811d672214110f110816440adbdb
+CIBN情感影院,http://cinb1.peoplevideo.cn/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN喜剧影院,http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN古装剧场,http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN骄阳剧场,http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN炫佳动漫,http://cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN童学世界,http://cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN朵丫乐园,http://cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN艺术院线,http://cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
+CIBN风尚运动,http://cibn.peoplevideo.cn/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?wsSecret=5f38811d672214110f110816440adbdb
+CIBN文旅中国,http://gqys.lbcl02.cibn.cc/hls/vCIBNLYPD/1800/vCIBNLYPD.m3u8?k=9f26c9729c9ed7430cb2a9a84a63ae0c&channel=xlmediawatch&t=1581220196&ttl=86400&type=3&videotype=loop
+CIBN经典剧场,http://gqys.lbcl02.cibn.cc/hls/vCIBNJCJD/1800/vCIBNJCJD.m3u8?k=e25bf187220df857c9b65be137e3d133&channel=xlmediawatch&t=1581221781&ttl=86400&type=3&videotype=loop
+CIBN热卖推荐,http://gqys.lbcl02.cibn.cc/hls/vCIBNLJGW/1800/vCIBNLJGW.m3u8?k=2ecee7b864ce68d19a49c7ea00be891e&channel=xlmediawatch&t=1581222082&ttl=86400&type=3&videotype=loop
+CIBN品质生活,http://gqys.lbcl02.cibn.cc/hls/vCIBNHXGW/1800/vCIBNHXGW.m3u8?k=a8288f81c8860718a6777983ffea7705&channel=xlmediawatch&t=1581222703&ttl=86400&type=3&videotype=loop
+CIBN动漫剧场,http://gqys.lbcl02.cibn.cc/hls/vCIBNDMJC/1800/vCIBNDMJC.m3u8?k=a8288f81c8860718a6777983ffea7705&channel=xlmediawatch&t=1581222703&ttl=86400&type=3&videotype=loop
+CIBN家居用品,http://gqys.lbcl02.cibn.cc/hls/vCIBNJYGW/1800/vCIBNJYGW.m3u8?k=a8288f81c8860718a6777983ffea7705&channel=xlmediawatch&t=1581222703&ttl=86400&type=3&videotype=loop
+CIBN动作影院,http://gqys.lbcl02.cibn.cc/hls/vCIBNDZYY/1800/vCIBNDZYY.m3u8?k=11a758f2c53d578c7b4c9b4d06449fda&channel=xlmediawatch&t=1581223007&ttl=86400&type=3&videotype=loop
+CIBN精品收藏,http://loopplay.cibn.cc/vchannel/501.m3u8?k=056b4eb0ee80357c12a766dfbcca37d5&channel=CIBN&t=1581224838&ttl=86400&type=3&videotype=loop
+CIBN低价秒杀,http://loopplay.cibn.cc/vchannel/300.m3u8?k=52dcb21fa64c4d8e386ca13c6db9d5dd&channel=CIBN&t=1581223310&ttl=86400&type=3&videotype=loop
+CIBN家装精选,http://loopplay.cibn.cc/vchannel/301.m3u8?k=52dcb21fa64c4d8e386ca13c6db9d5dd&channel=CIBN&t=1581223310&ttl=86400&type=3&videotype=loop
+CIBN美食厨房,http://loopplay.cibn.cc/vchannel/302.m3u8?k=8864952c64868c61cb69616d1f835900&channel=CIBN&t=1581223615&ttl=86400&type=3&videotype=loop
+CIBN斗牛财经,http://loopplay.cibn.cc/vchannel/126.m3u8?k=8864952c64868c61cb69616d1f835900&channel=CIBN&t=1581223615&ttl=86400&type=3&videotype=loop
+CIBN老陈座谈,http://loopplay.cibn.cc/vchannel/136.m3u8?k=adfdc305b3907e71936c89ab0d73b192&channel=CIBN&t=1581224218&ttl=86400&type=3&videotype=loop
+CIBN全球歌曲,http://loopplay.cibn.cc/vchannel/338.m3u8?k=8fb3ac8be3068a8239298c9045ad4662&channel=CIBN&t=1581223007&ttl=86400&type=3&videotype=loop
+CIBN流行榜单,http://loopplay.cibn.cc/vchannel/155.m3u8?k=52dcb21fa64c4d8e386ca13c6db9d5dd&channel=CIBN&t=1581223310&ttl=86400&type=3&videotype=loop
+CIBN巨星演唱,http://loopplay.cibn.cc/vchannel/135.m3u8?k=8864952c64868c61cb69616d1f835900&channel=CIBN&t=1581223615&ttl=86400&type=3&videotype=loop
+CIBN经典音乐,http://loopplay.cibn.cc/vchannel/162.m3u8?k=8864952c64868c61cb69616d1f835900&channel=CIBN&t=1581223615&ttl=86400&type=3&videotype=loop#http://loopplay.cibn.cc/vchannel/128.m3u8?k=252bb32f321bc311ae1e9bccd421a616&channel=CIBN&t=1581223915&ttl=86400&type=3&videotype=loop
+CIBN女团专场,http://loopplay.cibn.cc/vchannel/208.m3u8?k=8864952c64868c61cb69616d1f835900&channel=CIBN&t=1581223615&ttl=86400&type=3&videotype=loop
+CIBN音乐综艺,http://loopplay.cibn.cc/vchannel/145.m3u8?k=252bb32f321bc311ae1e9bccd421a616&channel=CIBN&t=1581223915&ttl=86400&type=3&videotype=loop
+CIBN古典音乐,http://loopplay.cibn.cc/vchannel/78.m3u8?k=252bb32f321bc311ae1e9bccd421a616&channel=CIBN&t=1581223915&ttl=86400&type=3&videotype=loop
+CIBN莎翁戏剧,http://loopplay.cibn.cc/vchannel/68.m3u8?k=adfdc305b3907e71936c89ab0d73b192&channel=CIBN&t=1581224218&ttl=86400&type=3&videotype=loop
+iHOT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱浪漫,http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+iHOT爱科学,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+iHOT爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+iHOT爱探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+iHOT爱院线,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
+$c_start央视蓝光$c_end
+CCTV-2蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-3蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8#http://39.135.34.8:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031579
+CCTV-4蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV-5蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://39.135.34.18:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036763
+CCTV-5+蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+CCTV-6蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000203302.m3u8#http://39.135.34.15:18890/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039733
+CCTV-7蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+CCTV-8蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8#http://39.135.34.12:18890/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039505
+CCTV-9蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+CCTV-10蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV-11蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV-12蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+CCTV-13蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-14蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+CCTV-15蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8#http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+CCTV-17蓝光,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+中国教育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
+山东教育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
+CCTV-1综合,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8#http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000010000030810/index.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=004003FF0020925379008422F151665C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000030810&owchid=bestzb&owsid=4493204831455166715&AuthInfo=cjcdlBWDTYYoYtO46RRUwsYRcjcWQVqy4ItUwCSE6Ep6GNpZ%2bE47AWi696WsOzmj03B6YdXlnCO%2fv10UuMElRmR3DSSroDBBiXOoLcO5%2b55ijGc06cd3bkZ3LN9pGE%2bm
+CCTV-2财经,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV-3综艺,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV-4国际,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV-5体育,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5922040007130019836/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&stbId=004003FF0097495663008422F154756C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5922040007130019836&owchid=bestzb&owsid=4493204831454898328&AuthInfo=JTsQWGUKkYoHA3r5%2bkXSPuQaMGlkWO6F3ymwmvvczdEnJ7d0nBpY4SKNzz%2bDER9RtAmezz%2bxJYyCm2yZLH5njrC0RS2vVaRxLbhsLrwqpWU3PaOTS%2bq7kGToR8VkHaBa
+CCTV-6电影,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5919402815101985320/index.m3u8?channel-id=bestzb&Contentid=5919402815101985320&livemode=1&stbId=004003FF0095627489008422F157709C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5919402815101985320&owchid=bestzb&owsid=4493204831454948501&AuthInfo=23lkxlHL7LQLd8R0Px2puYxgueDk8AH4pLB%2b911Vd8fTQLv2EzkFPm5B3N8jYPV%2fm4EEJcMk6wVUf8SCm8eW3k%2f8y%2bOg%2fDib8c6KA998vruZotfjzDf%2bSxqkRvqrFMfA#http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+CCTV-7军事,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV-7国防,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV-8电视,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8#http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/8845820895945979833/index.m3u8?channel-id=bestzb&Contentid=8845820895945979833&livemode=1&stbId=004003FF0011438253008422F158240C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=8845820895945979833&owchid=bestzb&owsid=4493204831455278961&AuthInfo=mCxVXpaN9Nw6BpCmnVXBQFPsjdITPlrhcX%2bV16yXuDdiZHdBrjHQVA36ERTRaTb7C1iXAjEexLeHDtzQCC4oj7sru8oW%2b%2bCohsBfuFdgPBWxd3vyCe%2fzyv5ewLzyAWQh
+CCTV-9纪录,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV-10科教,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8#http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/9092756522938817434/index.m3u8?channel-id=bestzb&Contentid=9092756522938817434&livemode=1&stbId=004003FF0029452831008422F155922C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=9092756522938817434&owchid=bestzb&owsid=4493204831455231193&AuthInfo=gcH3ssn3REG54mXPerWCi56XJ2Urs2SNIGZ7J0zskzvi8i3cj6671FT1ZAhLU6JQT9a3V5n9%2fymys6jXVSm7WvZDIeu%2f1lLHoO5qp40pjmytLJWpd9ZXTmmM59QP6yvU
+CCTV-11戏曲,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV-12社会,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV-13新闻,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-14少儿,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8#http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/000000001000/4698841642605267773/index.m3u8?channel-id=bestzb&Contentid=4698841642605267773&livemode=1&stbId=004003FF0054805450008422F156021C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=4698841642605267773&owchid=bestzb&owsid=4493204831455266368&AuthInfo=hZkn3vHGhq4VvDzmzr4iVEHqo%2bvzF6rKA%2b8OSN8w0NBeBAiwbiztWgyQwzn8jrXqRnTn9qssoyuTaz8kN6jS4cYG4Wtqw%2f9GA6z30f3PSa2RbGYR9aFXtJD4jiOxxIfw
+CCTV-15音乐,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV-17农村,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CCTV-5?体育,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8#http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8#http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CETV-1中国教育台,http://39.135.34.8:18890/000000001000/1000000002000027253/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032459
+CETV-3中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8?_res_tag_=video
+CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?_res_tag_=video
+CGTN-国际电视台,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+$c_start最爱电影$c_end
+爱喜剧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
+爱经典,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
+爱家庭,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+爱青春,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+爱动漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
+爱都市,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
+爱悬疑,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+爱猎奇,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+爱谍战,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+爱娱乐,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+爱江湖,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
+爱幼教,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
+爱奇谈,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
+爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/01.m3u8?fmt=ts2hls,2646,01.m3u8,0,7813,0,0
+爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+爱世界,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
+爱解密,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
+爱科学,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+爱探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+爱美食,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
+爱历史,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+爱军武,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
+$c_start卡通动漫$c_end
+金鹰卡通,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
+佳通卡通,http://39.135.34.6:18890/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039139
+哈哈卡通,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
+炫动卡通,http://39.135.34.137:18890/000000001000/7589856436881630561/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032440
+优漫卡通,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
+卡酷少儿,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
+$c_start教学平台$c_end
+作业帮二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114150264733783_sd.flv
+作业帮三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114161536925783_sd.flv
+作业帮四年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114171468513367_sd.flv
+作业帮五年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114184289976407_sd.flv
+作业帮六年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114187240144983_sd.flv
+作业帮初一,http://pull-flv-l6-act.pstatp.com/activity/stream-394344593730306135_sd.flv
+作业帮初二,http://pull-flv-l6-act.pstatp.com/activity/stream-106114222741782615_sd.flv
+作业帮初三,http://pull-flv-l6-act.pstatp.com/activity/stream-394344604800909399_sd.flv
+作业帮高二,http://pull-flv-l6-act.pstatp.com/activity/stream-394344622782414935_sd.flv
+作业帮高三,http://pull-flv-l6-act.pstatp.com/activity/stream-394344630637035607_sd.flv
+腾讯一年级,https://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
+腾讯二年级,https://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
+腾讯三年级,https://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
+腾讯四年级,https://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
+腾讯五年级,https://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
+腾讯六年级,https://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
+腾讯初一,https://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
+腾讯初二,https://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
+腾讯初三,https://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
+腾讯高一,https://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
+腾讯高二,https://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
+腾讯高三,https://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
+小学一年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-106122224802201687_sd.flv
+小学一年级_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-394344518832095319_sd.flv
+小学二年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394347161108873303_sd.flv
+小学二年级_学业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114150264733783_sd.flv
+小学三年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394347165067771991_sd.flv
+小学三年级_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114161536925783_sd.flv
+小学四年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394352493309460567_sd.flv
+小学四年级_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114171468513367_sd.flv
+小学五年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394347170511192151_sd.flv
+小学五年级_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114184289976407_sd.flv
+小学六年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-106116789653733463_sd.flv
+小学六年级_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114187240144983_sd.flv
+初一_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394347171578380375_sd.flv
+初一_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-394344593730306135_sd.flv
+初二_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-106116787305185367_sd.flv
+初二_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114222741782615_sd.flv
+初三_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-106116789385035863_sd.flv
+初三_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-394344604800909399_sd.flv
+高一_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-106116791935959127_sd.flv
+高一_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114239584534615_sd.flv
+高二_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394347170975973463_sd.flv
+高二_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-394344622782414935_sd.flv
+高三_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-394344630637035607_sd.flv
+新冠状病毒科普讲座,https://charge.zuoyebang.cc/record_eafdda4090346101bb9c338fc15d4561.mp4
+小学美术1,https://charge.zuoyebang.cc/record_1bfb7b7aa8fb1806c8dd89b9bb7a710f.mp4
+小学英语早读1,https://charge.zuoyebang.cc/record_eb20b799102d964e89741c4c2f634443.mp4
+小学英语早读2,https://charge.zuoyebang.cc/record_9d8cc7c2734a19ee189901afdf7949ec.mp4
+小学英语早读3,https://charge.zuoyebang.cc/record_7d499aeb5e893c0b33634d47ffc8dee3.mp4
+小一语文1,https://charge.zuoyebang.cc/record_aa1c45e333dc8499a064816c62a367c3.mp4
+小一语文2,https://charge.zuoyebang.cc/record_aa567eb451746886cec609ca11256e52.mp4
+小一语文3,https://charge.zuoyebang.cc/record_97f9c329bc28ebc898ed41ca3567b694.mp4
+小一语文4,https://charge.zuoyebang.cc/record_1959627b2443119c3554ed068ab98c02.mp4
+小一语文5,https://charge.zuoyebang.cc/record_bcd906c397759f35fe1a3ae283f2833e.mp4
+小一语文6,https://charge.zuoyebang.cc/record_81dc38f55d5cf3f4d6139f4f30564cd4.mp4
+小一语文早读1,https://charge.zuoyebang.cc/record_b7bf2eef43901fcac74659be8d6a36d2.mp4
+小一语文早读2,https://charge.zuoyebang.cc/record_f00cc9a25b6df9addde0930a7e831302.mp4
+小一诗词1,https://charge.zuoyebang.cc/record_2bbb3f375028bd38b2521c43116393c4.mp4
+小一诗词2,https://charge.zuoyebang.cc/record_28618345f0b42af04ac76ad12954237e.mp4
+小一数学1,https://charge.zuoyebang.cc/record_1fd80aa425da71413c1dae2c6ef2468d.mp4
+小一数学2,https://charge.zuoyebang.cc/record_0a4f45f7ac17b5e7ab3b954fc3e70705.mp4
+小一数学3,https://charge.zuoyebang.cc/record_9e47a7b9b0deb25627d4cb8cc0f4fba8.mp4
+小一数学4,https://charge.zuoyebang.cc/record_07797cf5a8c46ce2e82c8f555c7fb98d.mp4
+小一数学5,https://charge.zuoyebang.cc/record_2e71280b69c520f025fd34094bfcd21f.mp4
+小一数学6,https://charge.zuoyebang.cc/record_b6b03e5842bc907535b6e95b20505345.mp4
+小一数学7,https://charge.zuoyebang.cc/record_711f827a25e5fcdb3d0772adae784228.mp4
+小一英语1,https://charge.zuoyebang.cc/record_025a0712f50cb90fb3f67eed1fa64fc5.mp4
+小一英语2,https://charge.zuoyebang.cc/record_636767e8ebf98775ecece1e85c447dd2.mp4
+小一英语3,https://charge.zuoyebang.cc/record_144758455ce97a78f8acdd72093adb03.mp4
+小一英语4,https://charge.zuoyebang.cc/record_28618345f0b42af04ac76ad12954237e.mp4
+小一英语5,https://charge.zuoyebang.cc/record_85fbc353cf162f9d5111241c238cd387.mp4
+小一英语6,https://charge.zuoyebang.cc/record_f4fbd0b41c746e669303048d3fcccd5b.mp4
+小一英语7,https://charge.zuoyebang.cc/record_263ca25f64e409fe94ce9069d777a562.mp4
+小一英语早读1,https://charge.zuoyebang.cc/record_25934e7f0b5cf51710b762832850cd8a.mp4
+小一英语早读2,https://charge.zuoyebang.cc/record_9bb89e24d5fa0bc1107ba9cf55cedafc.mp4
+小二数学1,https://charge.zuoyebang.cc/record_7e4c15a7242dc8cdb26be53fe6a8638f.mp4
+小二数学2,https://charge.zuoyebang.cc/record_6351b2540a2bc7f323d4a99ecba14e89.mp4
+小二数学3,https://charge.zuoyebang.cc/record_7adbe15a22d0b4b29af45c90aba3d575.mp4
+小二数学4,https://charge.zuoyebang.cc/record_230a65802d20d74706b16ef6e7a784f5.mp4
+小二数学5,https://charge.zuoyebang.cc/record_dcda89d289f1cda1e9c1c58852dffb30.mp4
+小二数学6,https://charge.zuoyebang.cc/record_27a8d3715a203f43428a69e879656eb2.mp4
+小二数学7,https://charge.zuoyebang.cc/record_bd2734825c678b191fc46629abf78828.mp4
+小二英语1,https://charge.zuoyebang.cc/record_bedf926ec90aa807b27b489efa930b87.mp4
+小二英语2,https://charge.zuoyebang.cc/record_949797a137d7675bce16ea69730c44ef.mp4
+小二英语3,https://charge.zuoyebang.cc/record_0e4d3a78a2d4b6e51afa0b6b4db5f1b3.mp4
+小二英语4,https://charge.zuoyebang.cc/record_b718f02e4266417d54725ec444a2a953.mp4
+小二英语5,https://charge.zuoyebang.cc/record_770999a81817f5a71393577fa155d79f.mp4
+小二英语6,https://charge.zuoyebang.cc/record_1c5c141511d6a959b5454e8bee0194eb.mp4
+小二英语早读1,https://charge.zuoyebang.cc/record_eb20b799102d964e89741c4c2f634443.mp4
+小二英语早读2,https://charge.zuoyebang.cc/record_9d8cc7c2734a19ee189901afdf7949ec.mp4
+小二英语早读3,https://charge.zuoyebang.cc/record_7d499aeb5e893c0b33634d47ffc8dee3.mp4
+小二语文1,https://charge.zuoyebang.cc/record_680efab2024424857fbe5a4c17d1b38b.mp4
+小二语文2,https://charge.zuoyebang.cc/record_5a24a03b55b6002d285e3ef611e60344.mp4
+小二语文3,https://charge.zuoyebang.cc/record_c8ffb5ef527d1d0de1055f0562a92029.mp4
+小二语文4,https://charge.zuoyebang.cc/record_76ae88b8425ef3711cf6b63a39aeb289.mp4
+小二语文5,https://charge.zuoyebang.cc/record_c8e0cdc08bb273a82830b40dabea2a0b.mp4
+小二语文6,https://charge.zuoyebang.cc/record_2d94ab3f834e0cfa90a7e0e5ced1663f.mp4
+小三语文7,https://charge.zuoyebang.cc/record_fb40035f09e2af46ce87201aefba3c8a.mp4
+小二语文早读1,https://charge.zuoyebang.cc/record_46137928e075d0f8f96b410e9e58cd99.mp4
+小二语文早读2,https://charge.zuoyebang.cc/record_3d7523b76acad9fd02989849fb8c22f9.mp4
+小二语文早读3,https://charge.zuoyebang.cc/record_cd263fda05815ce7947fc4fd21fec70a.mp4
+小三数学1,https://charge.zuoyebang.cc/record_13313360bbb5d88e61c51c81a944d842.mp4
+小三数学2,https://charge.zuoyebang.cc/record_46e8b76e50c264775c4b31cd9ba3970b.mp4
+小三数学3,https://charge.zuoyebang.cc/record_ee28b59240659159478cc2c9931cb55f.mp4
+小三数学4,https://charge.zuoyebang.cc/record_66dede294372e209c1c1da062d9d84b3.mp4
+小三数学5,https://charge.zuoyebang.cc/record_585dbfffbafffe21354836515ae62efb.mp4
+小三数学6,https://charge.zuoyebang.cc/record_dab233ba02b298c0abedddcaf1360c12.mp4
+小三数学7,https://charge.zuoyebang.cc/record_2f61c7a8953e3b5f53193274de13c5df.mp4
+小三英语1,https://charge.zuoyebang.cc/record_760764190a1e6bec127a85ea7e52abf3.mp4
+小三英语2,https://charge.zuoyebang.cc/record_0e75237c1c634f352eb8ee8ebfe2ad88.mp4
+小三英语3,https://charge.zuoyebang.cc/record_7438aada31effecf2b3bbcf317ca1a71.mp4
+小三英语4,https://charge.zuoyebang.cc/record_d62ccbe97cb05f4d5f38a7549b36d873.mp4
+小三英语5,https://charge.zuoyebang.cc/record_ab877ba83a2b4e6b427859d2708ad35f.mp4
+小三英语6,https://charge.zuoyebang.cc/record_bd6f90ec0375d0edaa4e5aa81df274b3.mp4
+小三英语早读1,https://charge.zuoyebang.cc/record_b2a256a84e03112e6285e4966df94916.mp4
+小三英语早读2,https://charge.zuoyebang.cc/record_a566b7df9e80f31b375d24ad03c435bf.mp4
+小三语文1,https://charge.zuoyebang.cc/record_25ef4a807605cfc9debd46c3ff3f19a7.mp4
+小三语文2,https://charge.zuoyebang.cc/record_987ac24b4e744310ded812b07b6e234e.mp4
+小三语文3,https://charge.zuoyebang.cc/record_c83243de981a2de26516e7188ed8c9b3.mp4
+小三语文4,https://charge.zuoyebang.cc/record_8c811ed15de820f633ceaaf541095108.mp4
+小三语文5,https://charge.zuoyebang.cc/record_4168af70521888a10105e1b1dec1d41c.mp4
+小三语文晨读1,https://charge.zuoyebang.cc/record_8725e985990606ece701b89650edcc09.mp4
+小三语文晨读2,https://charge.zuoyebang.cc/record_9d58bffbf5972631f8b0d1f69e8deda7.mp4
+小三语文晨读3,https://charge.zuoyebang.cc/record_6252cb9a84556c8a85d344265a3f4761.mp4
+小四数学1,https://charge.zuoyebang.cc/record_bc3247fcd1cb5e607035e1ff4b5d4433.mp4
+小四数学2,https://charge.zuoyebang.cc/record_6c64e7a94f4b4d1a6b29cc2553638878.mp4
+小四数学3,https://charge.zuoyebang.cc/record_0caf5ab0ead258a9fb74d2d65ad436e0.mp4
+小四数学4,https://charge.zuoyebang.cc/record_79d7cb669d36e877d19c525070beb015.mp4
+小四数学5,https://charge.zuoyebang.cc/record_1935ca197db63292a901044d8836140b.mp4
+小四数学6,https://charge.zuoyebang.cc/record_4d74d4ed784131bb917513cca56f0b4d.mp4
+小四数学7,https://charge.zuoyebang.cc/record_dac64f79a6f7e888c5d1202435d5a355.mp4
+小四英语1,https://charge.zuoyebang.cc/record_3766adb63fc4075d3dceb8f1a732c66c.mp4
+小四英语2,https://charge.zuoyebang.cc/record_81f172dbbc56d78d10ca6370694ca9d2.mp4
+小四英语3,https://charge.zuoyebang.cc/record_ca6db1ef36232a0823408c68414adcae.mp4
+小四英语4,https://charge.zuoyebang.cc/record_9578af0f51d130e9d70c401f8d9066c4.mp4
+小四英语6,https://charge.zuoyebang.cc/record_c5f2102929f06e6383b78c823d225fc2.mp4
+小四英语早读1,https://charge.zuoyebang.cc/record_9c842e994e664ebceca343f726320c6a.mp4
+小四英语早读2,https://charge.zuoyebang.cc/record_c2c1f4ac3b69cb4d027e1c3d07be57b5.mp4
+小四语文1,https://charge.zuoyebang.cc/record_188a20a0c5d8385338e008e8ad5cb2aa.mp4
+小四语文2,https://charge.zuoyebang.cc/record_d61c936f23a95209f25770f03c438e50.mp4
+小四语文3,https://charge.zuoyebang.cc/record_7f3d166e8a542e75e74882a997e96b81.mp4
+小四语文4,https://charge.zuoyebang.cc/record_5325ababb6bed3cec0d29fc300697d72.mp4
+小四语文5,https://charge.zuoyebang.cc/record_eef2dbe3a4948218f90df9867f431895.mp4
+小四语文6,https://charge.zuoyebang.cc/record_18e9d94c84206ed6821dcd31baadaa64.mp4
+小四语文早读1,https://charge.zuoyebang.cc/record_bf6c084ecd3538587df026b694a93c4a.mp4
+小四语文早读2,https://charge.zuoyebang.cc/record_4f2b28dede6a947f84dd4b86ac19b092.mp4
+小四语文早读3,https://charge.zuoyebang.cc/record_508189d563198dd9a6612ef839e11dbd.mp4
+小四美术1,https://charge.zuoyebang.cc/record_7aa7d635855a8063251d4feb42831c50.mp4
+小五数学1,https://charge.zuoyebang.cc/record_158e8f7fef7c8c5bb62c32e298bf539a.mp4
+小五数学2,https://charge.zuoyebang.cc/record_9cfc12166ba4ad1d7ac526cfa3b76785.mp4
+小五数学3,https://charge.zuoyebang.cc/record_1b1228c2c4897162476d8a349399fcfd.mp4
+小五数学4,https://charge.zuoyebang.cc/record_67d9abcce1170d198307d1c033d423e6.mp4
+小五数学5,https://charge.zuoyebang.cc/record_b0b860dba33494a281b4a860b3e246d6.mp4
+小五数学6,https://charge.zuoyebang.cc/record_9764434982df6033e3450e3acb54f55e.mp4
+小五数学7,https://charge.zuoyebang.cc/record_4d4a9c4ff5825011490740a679d0f695.mp4
+小五英语1,https://charge.zuoyebang.cc/record_9632fddcb903c74498cf01fec9e22e69.mp4
+小五英语2,https://charge.zuoyebang.cc/record_fd094abf7b40c8b3e4b2db75b2912667.mp4
+小五英语3,https://charge.zuoyebang.cc/record_84b987f64c11ed55ae52c39da445eecd.mp4
+小五英语4,https://charge.zuoyebang.cc/record_64b328d2046c8fb70b9fa8384685bb81.mp4
+小五英语5,https://charge.zuoyebang.cc/record_f33eb71b26060c3c4ba444adc9c2f637.mp4
+小五英语6,https://charge.zuoyebang.cc/record_8fd13f94d1a71a06da0a37f1213c31a3.mp4
+小五英语早读1,https://charge.zuoyebang.cc/record_497c2e946f675c7b938497adac8b04da.mp4
+小五英语早读2,https://charge.zuoyebang.cc/record_c1bc2cfe5aa9a7b3cab293ce4b0c717b.mp4
+小五语文1,https://charge.zuoyebang.cc/record_fddf1d816da5349d12a0a5b110196659.mp4
+小五语文2,https://charge.zuoyebang.cc/record_c4e2535d727cc8642de6377b9ab0f95e.mp4
+小五语文3,https://charge.zuoyebang.cc/record_91b16776950deda82cde58270920d9ca.mp4
+小五语文4,https://charge.zuoyebang.cc/record_428698a88e2ad14e6f13b8b8488a03ee.mp4
+小五语文5,https://charge.zuoyebang.cc/record_2bc7803db394b6eea1dc9bd934214451.mp4
+小五语文6,https://charge.zuoyebang.cc/record_d58a362e509eaacec833e8b27bb37962.mp4
+小五语文早读1,https://charge.zuoyebang.cc/record_3b629d78af019426eae21c4e59687851.mp4
+小五语文早读2,https://charge.zuoyebang.cc/record_1d154d7661f1e8645ed5f44ef19c128e.mp4
+小五语文早读3,https://charge.zuoyebang.cc/record_82422c7662e245557052eae747971147.mp4
+小六数学1,https://charge.zuoyebang.cc/record_d71cd6db228ebc11b64049c086c5c541.mp4
+小六数学2,https://charge.zuoyebang.cc/record_24869fc1e4de324d993051cb84c355c8.mp4
+小六数学3,https://charge.zuoyebang.cc/record_6c86511f07e56dce7da1cf2d2fa874e0.mp4
+小六数学4,https://charge.zuoyebang.cc/record_0ac4b24ac515d684c369361543905b7a.mp4
+小六数学5,https://charge.zuoyebang.cc/record_34fbc9cc6507cb969e524b3059c4e6c1.mp4
+小六数学6,https://charge.zuoyebang.cc/record_52ec20a2d124e91f926eda45bc94d886.mp4
+小六数学7,https://charge.zuoyebang.cc/record_19360fde170d091116703d8b3fcb3c1e.mp4
+小六英语1,https://charge.zuoyebang.cc/record_b0e200a0791b8dbb7fb69f92ca0d171d.mp4
+小六英语2,https://charge.zuoyebang.cc/record_6d5e09ff57aa10ca087fd78cd38467d7.mp4
+小六英语3,https://charge.zuoyebang.cc/record_05e880d21ec77727b1710a68210ad535.mp4
+小六英语4,https://charge.zuoyebang.cc/record_f0ca4e0df24526c014e9c1fdce23ae0f.mp4
+小六英语6,https://charge.zuoyebang.cc/record_62b92840b91e190951dc7bd2d4a3dfcd.mp4
+小六英语早读1,https://charge.zuoyebang.cc/record_1a017b4b80ef17f318d24cdacc9245d4.mp4
+小六英语早读2,https://charge.zuoyebang.cc/record_147eb529897cc2fcc7b5c3ae054d41ff.mp4
+小六语文1,https://charge.zuoyebang.cc/record_5351d9a583817522dc19e584523886d7.mp4
+小六语文2,https://charge.zuoyebang.cc/record_440f96926acc62f65f7a820c4c719e45.mp4
+小六语文3,https://charge.zuoyebang.cc/record_ba4d69fe459807a493432a0ba3773b9f.mp4
+小六语文4,https://charge.zuoyebang.cc/record_ee49941c386456ec0ba85a69feaf657f.mp4
+小六语文5,https://charge.zuoyebang.cc/record_b8a4d751912c06afcd494f5017b08a6a.mp4
+小六语文6,https://charge.zuoyebang.cc/record_c5a9ab0bff8c4f829f52d926f481d79e.mp4
+小六语文早读1,https://charge.zuoyebang.cc/record_61c1ed2b1084e6b4313e9694933f16f1.mp4
+小六语文早读2,https://charge.zuoyebang.cc/record_42622dd3d1861f59291f29ec27fa6122.mp4
+小六语文早读3,https://charge.zuoyebang.cc/record_48e0c863928631db1ebb843a40b7c416.mp4
+初一数学1,https://charge.zuoyebang.cc/record_f6322e628baac89b0e602ae8ca05a81b.mp4
+初一数学2,https://charge.zuoyebang.cc/record_653a26ee1e6bf335c92840856744b85c.mp4
+初一数学3,https://charge.zuoyebang.cc/record_e3bcf44255e2d4dab7513487af4c1d5b.mp4
+初一数学4,https://charge.zuoyebang.cc/record_584a1a9547907f9e83bb075c95a35248.mp4
+初一数学5,https://charge.zuoyebang.cc/record_4efb1b47fc8535c4d1a989c32ab7c89a.mp4
+初一数学6,https://charge.zuoyebang.cc/record_2fe069c80342472872b301778acc7956.mp4
+初一数学7,https://charge.zuoyebang.cc/record_6ff619f00bb0f484b6495f1f3e2666d1.mp4
+初一数学8,https://charge.zuoyebang.cc/record_3960f06639d679d7afdeaf08d2afe6ca.mp4
+初一语文1,https://charge.zuoyebang.cc/record_95c31f93b80fd8cf8345c25efe8d813c.mp4
+初一语文2,https://charge.zuoyebang.cc/record_7a6684a1f072749b147bbad25ce83819.mp4
+初一语文3,https://charge.zuoyebang.cc/record_13fd94a407009636a5c8331d7921f2b7.mp4
+初一语文4,https://charge.zuoyebang.cc/record_41920357a61414724d361270290d14fd.mp4
+初一语文5,https://charge.zuoyebang.cc/record_5451b2135bb4ac66482fc257360f2caf.mp4
+初一语文6,https://charge.zuoyebang.cc/record_7dd8acd00926e6220fc8dc5988a05748.mp4
+初一语文7,https://charge.zuoyebang.cc/record_3e02a9b7da36acee1c481f0907a47779.mp4
+初一英语1,https://charge.zuoyebang.cc/record_85f96362394a4a9585d9847f30c19ec0.mp4
+初一英语2,https://charge.zuoyebang.cc/record_52cf945bae678b6fbaf7cf07665b0a1c.mp4
+初一英语3,https://charge.zuoyebang.cc/record_16277ff4aba162226f3a0c7cc611229f.mp4
+初一英语4,https://charge.zuoyebang.cc/record_942264b71a380b50b93915cb55788bb7.mp4
+初一英语5,https://charge.zuoyebang.cc/record_bdcc32f3cd67fc3910f17187d54a1a1c.mp4
+初一英语6,https://charge.zuoyebang.cc/record_5561137e3f4834b4695f58e437b05e8a.mp4
+初一英语7,https://charge.zuoyebang.cc/record_7ce454bf75ebdf9b46e36103e2c5f47c.mp4
+初一兴趣课1,https://charge.zuoyebang.cc/record_59545b4e9084a0863da5f61094ebedfb.mp4
+初一兴趣课2,https://charge.zuoyebang.cc/record_18e50280d3550ca9e4c97bc31cd82f77.mp4
+初一兴趣课3,https://charge.zuoyebang.cc/record_25647ebd7a11d3c108633e0c935072d9.mp4
+初一兴趣课4,https://charge.zuoyebang.cc/record_b5589b7dd0da515c0bb64b2b78ba5063.mp4
+初一兴趣课5,https://charge.zuoyebang.cc/record_dbfc087ca13f6e76bab9c6e7a3a43284.mp4
+初一兴趣课6,https://charge.zuoyebang.cc/record_7ee975b4b571274a2871585a36ad39e3.mp4
+初二语文1,https://charge.zuoyebang.cc/record_9d333e37eaaf0e9b2630a58549a7ac00.mp4
+初二语文2,https://charge.zuoyebang.cc/record_9a81f21d5213c69c6fedc7269f478252.mp4
+初二语文3,https://charge.zuoyebang.cc/record_14d85f5518ddabdbe49a9810abddb960.mp4
+初二语文4,https://charge.zuoyebang.cc/record_2c35d65be15929130a35a4adad84349e.mp4
+初二语文5,https://charge.zuoyebang.cc/record_df515b2f6b0a8a0b2f085c1754c3b78b.mp4
+初二语文6,https://charge.zuoyebang.cc/record_0e80d6b11a902dc8a8bb0b81568123e4.mp4
+初二语文7,https://charge.zuoyebang.cc/record_647c30dcc80a7a9d74996ea643f25044.mp4
+初二英语1,https://charge.zuoyebang.cc/record_005603d0e9b43710dabf82f648a53bbd.mp4
+初二英语2,https://charge.zuoyebang.cc/record_8bec6e1f1f5341fd0d9fca9ed7b55843.mp4
+初二英语3,https://charge.zuoyebang.cc/record_38c40cbbfbf72ced9bf110a7eee6dc68.mp4
+初二英语4,https://charge.zuoyebang.cc/record_de05c93da62888bcb704cbcea9f8ecb2.mp4
+初二英语5,https://charge.zuoyebang.cc/record_012557ac4f3b050fcca197ff4427c5a5.mp4
+初二英语6,https://charge.zuoyebang.cc/record_9299f1fa5ae5ce0b1fcf740c5c316f44.mp4
+初二英语7,https://charge.zuoyebang.cc/record_06da79f5500425ad38a87938de119162.mp4
+初二数学1,https://charge.zuoyebang.cc/record_49097978a68a7e5f89f3edbf52460321.mp4
+初二数学2,https://charge.zuoyebang.cc/record_c4b3456f287ab48216ab94b7a26368f0.mp4
+初二数学3,https://charge.zuoyebang.cc/record_7c14926c8ea52e6df97ae9628386b85e.mp4
+初二数学4,https://charge.zuoyebang.cc/record_d8470658af3127d83c33c9b0be0da250.mp4
+初二数学5,https://charge.zuoyebang.cc/record_23d14fdf44e21bbcf3d6f744079d5a65.mp4
+初二数学6,https://charge.zuoyebang.cc/record_151bb26a0598b9d81d6cf75eaa7092fb.mp4
+初二数学7,https://charge.zuoyebang.cc/record_a9de1a8d8d65c6f64bc3758d2b6c0484.mp4
+初二物理1,https://charge.zuoyebang.cc/record_76338be9b3cf6d0d1972f40eab073e3c.mp4
+初二物理2,https://charge.zuoyebang.cc/record_8c97b553426d7e4b602973d9922f541f.mp4
+初二物理3,https://charge.zuoyebang.cc/record_0f49089fb89e48c3e324dec003d24a00.mp4
+初二物理4,https://charge.zuoyebang.cc/record_8c201cccc00b2c8309e9049fcb4c914e.mp4
+初二物理5,https://charge.zuoyebang.cc/record_6abfcbf25a733b68cc41f339e706958d.mp4
+初二物理6,https://charge.zuoyebang.cc/record_0769086cd0bc81f0a28179fb7d9d38eb.mp4
+初二实验1,https://charge.zuoyebang.cc/record_d9e204013621d95e58d55c5fd8653004.mp4
+初二实验2,https://charge.zuoyebang.cc/record_8abc9333451362f69ef3b64d87ea482d.mp4
+初二实验3,https://charge.zuoyebang.cc/record_b5eb663f587e18bfa00000606e2d0b87.mp4
+初二实验4,https://charge.zuoyebang.cc/record_6bccd87c5c4ac16d3ad35a3e68f0033c.mp4
+初二实验5,https://charge.zuoyebang.cc/record_34fd6d849a44d196b781526474cbeefb.mp4
+初二实验6,https://charge.zuoyebang.cc/record_18a8d8f12998ea658affa5ab200cd24b.mp4
+初三英语1,https://charge.zuoyebang.cc/record_4f9f0c9e4e5486997e2d4edd4c0cba6c.mp4
+初三英语2,https://charge.zuoyebang.cc/record_13011ec8eb1cce187643c3aa840755b6.mp4
+初三英语3,https://charge.zuoyebang.cc/record_d5cec177c52e7aa9d8c98401817fd0c5.mp4
+初三英语4,https://charge.zuoyebang.cc/record_a16e87d9d25e559a9d725d009742969d.mp4
+初三英语5,https://charge.zuoyebang.cc/record_de1e0c40fe66fd42efee72a38ff16648.mp4
+初三英语6,https://charge.zuoyebang.cc/record_da6e18fd128460ea48aacccbdef32afb.mp4
+初三英语7,https://charge.zuoyebang.cc/record_9a7e5fb64c2221e86b82a539046b8168.mp4
+初三数学1,https://charge.zuoyebang.cc/record_46416811cd918fd535d488037bc8bd14.mp4
+初三数学2,https://charge.zuoyebang.cc/record_97e06b8e801ff79057bd208bea05a8ac.mp4
+初三数学3,https://charge.zuoyebang.cc/record_14dad5c919762558745dfdf224044f58.mp4
+初三数学4,https://charge.zuoyebang.cc/record_c75e25f0b230887b9cc3f95a699e62b2.mp4
+初三数学5,https://charge.zuoyebang.cc/record_a15bb35e4a6653c58f117bed02001af6.mp4
+初三数学6,https://charge.zuoyebang.cc/record_734d39ca7593895127e239d86bd28631.mp4
+初三数学7,https://charge.zuoyebang.cc/record_cbd7f99077b4b518aaf664d8d980c6ba.mp4
+初三语文1,https://charge.zuoyebang.cc/record_d1b4ae3f9495e4453e25bf4310284013.mp4
+初三语文2,https://charge.zuoyebang.cc/record_3bfcee26cafc60fc10aa355648403612.mp4
+初三语文3,https://charge.zuoyebang.cc/record_d50392519b852632a18fefb2c93ea4ff.mp4
+初三语文4,https://charge.zuoyebang.cc/record_0a414cbdcc0eb044c02f33bec1e9a66e.mp4
+初三语文5,https://charge.zuoyebang.cc/record_9d101a381de02c9ae5edad2fbe298d35.mp4
+初三语文6,https://charge.zuoyebang.cc/record_7a71522f8d6f6491dc00d0f99f4316d6.mp4
+初三语文7,https://charge.zuoyebang.cc/record_37c21ec72279b88be2ca22f35fa86fd3.mp4
+初三化学1,https://charge.zuoyebang.cc/record_bc0c02eaf03655424ca890e8b731543d.mp4
+初三化学2,https://charge.zuoyebang.cc/record_245219645579fbb411688b9ade619782.mp4
+初三化学3,https://charge.zuoyebang.cc/record_cfdd5cdbb6e1b36578f660beca72cec9.mp4
+初三化学4,https://charge.zuoyebang.cc/record_15875a33132d585e13843d8f1ec55f90.mp4
+初三化学5,https://charge.zuoyebang.cc/record_71a9e3dc623d9e44eac43b0f46868af3.mp4
+初三化学6,https://charge.zuoyebang.cc/record_1513469a7ed29f0cc15b3df1648210a4.mp4
+初三物理1,https://charge.zuoyebang.cc/record_107990582e64c7ac9d17aea36a27f2f5.mp4
+初三物理2,https://charge.zuoyebang.cc/record_7526d9fd787291372b7520e6164685a4.mp4
+初三物理3,https://charge.zuoyebang.cc/record_07790cba532d3064f1d12d2b57ca837b.mp4
+初三物理4,https://charge.zuoyebang.cc/record_96180d260edfebf4abe00726f8b3237e.mp4
+初三物理5,https://charge.zuoyebang.cc/record_6a36cc173ebbb79f7837ecf06a6440bf.mp4
+初三物理6,https://charge.zuoyebang.cc/record_5c2ac4550f1d89c91bfa1e7a77b1cac8.mp4
+初三家长课1,https://charge.zuoyebang.cc/record_5c2cebe2d63fdf0d8054b64051adaaf9.mp4
+作业帮直播课导学,https://charge.zuoyebang.cc/record_18fa09f50b6087a88fbfb4fd1522c67c.mp4
+高一数学1,https://charge.zuoyebang.cc/record_efd07ff8dde313b25c65d4ad639a54b3.mp4
+高一数学2,https://charge.zuoyebang.cc/record_45351f3279e96ccdc954a407abe2132a.mp4
+高一数学3,https://charge.zuoyebang.cc/record_5eed893021fbec27e96786f6cfdf6fa5.mp4
+高一数学4,https://charge.zuoyebang.cc/record_66c25ab375db799dd29009719c62cf5a.mp4
+高一数学5,https://charge.zuoyebang.cc/record_5db78ac08c0ca478615dc2d62a5e0377.mp4
+高一数学6,https://charge.zuoyebang.cc/record_ea35a412bb6dbedfb0e99e821db81aa7.mp4
+高一数学7,https://charge.zuoyebang.cc/record_09901223755ddff933c34a7c8c4026d9.mp4
+高一语文1,https://charge.zuoyebang.cc/record_95c35230a06b35aa812392a9d74f0f03.mp4
+高一语文2,https://charge.zuoyebang.cc/record_c72a1941decd34aef4a8a3603ce436e4.mp4
+高一语文3,https://charge.zuoyebang.cc/record_e25280069f5837339afecc69360449be.mp4
+高一语文4,https://charge.zuoyebang.cc/record_fe1eb12aa28bf9adbb13195a6ffe5ae0.mp4
+高一语文5,https://charge.zuoyebang.cc/record_057f7235b64300448b8d1e70b1bc2ff3.mp4
+高一语文6,https://charge.zuoyebang.cc/record_1b87a2dacc6e7a02201ab547654d8269.mp4
+高一语文7,https://charge.zuoyebang.cc/record_160469487c71f062ccb1e0dd839d06f9.mp4
+高一英语1,https://charge.zuoyebang.cc/record_6cc58aa6b4cce5df80891992d10cbfda.mp4
+高一英语2,https://charge.zuoyebang.cc/record_93fd44d519ea85814e825718cfd3e911.mp4
+高一英语3,https://charge.zuoyebang.cc/record_fc30994e46fe2dcd377bb008761ebebb.mp4
+高一英语4,https://charge.zuoyebang.cc/record_2bb71e09f70ff58764f665a74daa1969.mp4
+高一英语5,https://charge.zuoyebang.cc/record_c9b2a0a91073dac682933a5580698d3d.mp4
+高一英语6,https://charge.zuoyebang.cc/record_df72999b42846d7d1ef1e11014bc4f06.mp4
+高一英语7,https://charge.zuoyebang.cc/record_8b94437852ec44a51126d113569a9efb.mp4
+高一物理1,https://charge.zuoyebang.cc/record_882ae993307f9fe5e23221e5533d3ebb.mp4
+高一物理2,https://charge.zuoyebang.cc/record_cea7d1923822a9a96949a5d3ffab2848.mp4
+高一物理3,https://charge.zuoyebang.cc/record_d05c5273ed54d5f7e6da116a18d2336d.mp4
+高一物理4,https://charge.zuoyebang.cc/record_340dcb8902bf65ed5e7e816286336fa8.mp4
+高一物理5,https://charge.zuoyebang.cc/record_1b4d8b346e9bc4a5a22d1829c956d72a.mp4
+高一物理6,https://charge.zuoyebang.cc/record_c80de590b66e26fee71a2fde241f78d5.mp4
+高一化学1,https://charge.zuoyebang.cc/record_383bdd6cf9170943b09dd29723f8872a.mp4
+高一化学2,https://charge.zuoyebang.cc/record_15ea71ed32307833fb90f66f614e9067.mp4
+高一化学3,https://charge.zuoyebang.cc/record_bc61a97b28f6e62aae753f02812c1639.mp4
+高一化学4,https://charge.zuoyebang.cc/record_6e7257f2306f29d4397bc5f4addde473.mp4
+高一化学5,https://charge.zuoyebang.cc/record_13d0d52f010bb12e37a320a408284735.mp4
+高一化学6,https://charge.zuoyebang.cc/record_e1b6da67109ae60a0e5080b6a764c129.mp4
+高一生物1,https://charge.zuoyebang.cc/record_8ea97140f650ff504328ceded3cf9f01.mp4
+高一生物2,https://charge.zuoyebang.cc/record_58901cc6e65d9cff4db9127e3d958aac.mp4
+高一生物3,https://charge.zuoyebang.cc/record_5ba0f809c9fa55934075f70740381fee.mp4
+高一生物4,https://charge.zuoyebang.cc/record_87e6abb97a5d71bc30973f808dc2ce3c.mp4
+高一生物5,https://charge.zuoyebang.cc/record_e051f5414a4e0bd29341de42cb7e1451.mp4
+高一地理1,https://charge.zuoyebang.cc/record_ead23db95dccc76c211dc38595365604.mp4
+高一地理2,https://charge.zuoyebang.cc/record_02f68c3aa1f2fce91fe93cc697d9665f.mp4
+高一地理3,https://charge.zuoyebang.cc/record_6b829728c95ceed72dbe26611332053f.mp4
+高一政治1,https://charge.zuoyebang.cc/record_b66603bc1d1c53a7205214485120c61c.mp4
+高一政治2,https://charge.zuoyebang.cc/record_93d721c872a9c6c75482929bff9333bd.mp4
+高一历史1,https://charge.zuoyebang.cc/record_c4c1c738ad23bd584c4736e587e035e7.mp4
+高一历史2,https://charge.zuoyebang.cc/record_92cec72fbddf83338f996885de1b14e1.mp4
+高二数学1,https://charge.zuoyebang.cc/record_41b1bbfee7524d2458df5d1edb208e94.mp4
+高二数学2,https://charge.zuoyebang.cc/record_11ed6637cb5917c63b4ae30d8d9ac3d4.mp4
+高二数学3,https://charge.zuoyebang.cc/record_eb853c6189a74052329bc354ce18cd89.mp4
+高二数学4,https://charge.zuoyebang.cc/record_e9db288cb44f86f0b2dcccfdbc6402a0.mp4
+高二数学5,https://charge.zuoyebang.cc/record_8f227509813d762e4f25e9b838b563aa.mp4
+高二数学6,https://charge.zuoyebang.cc/record_79be17c1bbb40a7e47b4d163c7d8146b.mp4
+高二数学7,https://charge.zuoyebang.cc/record_20d377a1381671182035f23e02ea48be.mp4
+高二语文1,https://charge.zuoyebang.cc/record_0df7d0850cabcace912932f0afd89948.mp4
+高二语文2,https://charge.zuoyebang.cc/record_9a1c3d15969a9c8d41e155ca42a6f909.mp4
+高二语文3,https://charge.zuoyebang.cc/record_3a76849b4c768f06731651ff3e66d643.mp4
+高二语文4,https://charge.zuoyebang.cc/record_91789a428a6d846dd287f2659b2872a5.mp4
+高二语文5,https://charge.zuoyebang.cc/record_f4cace8e6db44b0251b571b68cd12999.mp4
+高二语文6,https://charge.zuoyebang.cc/record_653af55577f29a38262ff90b638f162d.mp4
+高二语文7,https://charge.zuoyebang.cc/record_987c1ace51467b5959a447eec31ae0d9.mp4
+高二英语2,https://charge.zuoyebang.cc/record_501127ba1e291e2da33ecb0ad8a17b49.mp4
+高二英语3,https://charge.zuoyebang.cc/record_e9b21a832083a8059a9aa4b3a79e66bd.mp4
+高二英语4,https://charge.zuoyebang.cc/record_69481283dbf37ca6be8b61c6472f88f6.mp4
+高二英语5,https://charge.zuoyebang.cc/record_718a92e0e18b71185e1364c8aece1079.mp4
+高二英语6,https://charge.zuoyebang.cc/record_835add6974d91405d47bc4221402a7cc.mp4
+高二英语7,https://charge.zuoyebang.cc/record_aa6d9420ff3c49bdddcfcec52d0bf653.mp4
+高二物理1,https://charge.zuoyebang.cc/record_b339367390f562537148e5d2ecbf9bf8.mp4
+高二物理2,https://charge.zuoyebang.cc/record_a300804c2a446da95b180914ab50acda.mp4
+高二物理3,https://charge.zuoyebang.cc/record_c26cd6c7e6d6a3c6044162c71fc69b1d.mp4
+高二物理4,https://charge.zuoyebang.cc/record_97d1e38b06064b7760eb406bbb6f90f0.mp4
+高二物理5,https://charge.zuoyebang.cc/record_e7ac8ca7a6c7ab175f73dd19325410e8.mp4
+高二物理6,https://charge.zuoyebang.cc/record_fca26a07545e7ce3f29759b662bedf07.mp4
+高二化学1,https://charge.zuoyebang.cc/record_9c5e5f29cf42f132d1ee5f24bad119df.mp4
+高二化学2,https://charge.zuoyebang.cc/record_924cc421632d0af2360e46f272b5dbc0.mp4
+高二化学3,https://charge.zuoyebang.cc/record_22005b3013271768995fa7f47f016c23.mp4
+高二化学4,https://charge.zuoyebang.cc/record_5dd6907b2c7c4188aa3762ed78f532fd.mp4
+高二化学5,https://charge.zuoyebang.cc/record_a9e82e404dbe2e2701c6a9f57d6acad0.mp4
+高二化学6,https://charge.zuoyebang.cc/record_364763b29795cf25385f327ea2a5595e.mp4
+高二生物1,https://charge.zuoyebang.cc/record_cd3a81a8adfd2235a46e63c4b62b6d18.mp4
+高二生物2,https://charge.zuoyebang.cc/record_ead2459b9b3bad20fa847606768bee3b.mp4
+高二生物3,https://charge.zuoyebang.cc/record_df11031079f6c364ea1163a2b64c7966.mp4
+高二生物4,https://charge.zuoyebang.cc/record_617b574a7c55cb65dd8ceb2805ba8ae7.mp4
+高二政治2,https://charge.zuoyebang.cc/record_19f1d4a7187592a2a59e5af05adad5cb.mp4
+高二地理1,https://charge.zuoyebang.cc/record_b022d09c9aba13f7c63912e74f6643b0.mp4
+高二地理2,https://charge.zuoyebang.cc/record_f516570d6985396b86b4ccbace126fe5.mp4
+高二地理3,https://charge.zuoyebang.cc/record_1dc0c702f40fe7aa7dc48a68a3e11b1b.mp4
+高二地理4,https://charge.zuoyebang.cc/record_3e6779c646b69c2da6a3ee1b92eb9c16.mp4
+高二历史1,https://charge.zuoyebang.cc/record_557c99d0f04ba98c3e40f0e278d23821.mp4
+高二历史2,https://charge.zuoyebang.cc/record_5f302a88c533bf0448c9d91d4b38856d.mp4
+高三数学1,https://charge.zuoyebang.cc/record_26c088922bd2ef7a8b4c2574028c363e.mp4
+高三数学2,https://charge.zuoyebang.cc/record_e24a51e2707d13e83cf2be0ec758f5ed.mp4
+高三数学3,https://charge.zuoyebang.cc/record_d2599be53cb8da25dee4ac42f014f04d.mp4
+高三数学4,https://charge.zuoyebang.cc/record_5c68752413fefc64334b79656017abee.mp4
+高三数学5,https://charge.zuoyebang.cc/record_91d0fa5fd093d5b8ba4bb3d689f4c2bd.mp4
+高三数学6,https://charge.zuoyebang.cc/record_717dec80c2307f9b650fe44d28299c23.mp4
+高三数学7,https://charge.zuoyebang.cc/record_1d756a80c12e3dcab33a0d95f7bb9ba3.mp4
+高三语文1,https://charge.zuoyebang.cc/record_88c09a55ca41c3b55406034cde9357c8.mp4
+高三语文2,https://charge.zuoyebang.cc/record_5cd7b16bac9af747b313c549259c6231.mp4
+高三语文3,https://charge.zuoyebang.cc/record_6ffadd298428d984851cdffc8092a08f.mp4
+高三语文4,https://charge.zuoyebang.cc/record_2f6a1ada2511d99eae10b7c0c50fdc80.mp4
+高三语文5,https://charge.zuoyebang.cc/record_3651ee2dae3173253539e80f5f773fe5.mp4
+高三语文6,https://charge.zuoyebang.cc/record_c1042dbc85d44c387f922ff7734cbbcb.mp4
+高三语文7,https://charge.zuoyebang.cc/record_f9e79be2961c8ce5c0952fbe899fe69f.mp4
+高三英语1,https://charge.zuoyebang.cc/record_54d88e6cbc7b1083578c9fecf5410f63.mp4
+高三英语2,https://charge.zuoyebang.cc/record_5d7d439ca7896bce9507caecc875ccb9.mp4
+高三英语3,https://charge.zuoyebang.cc/record_6b82b634f48fd77f8286664d6ff64039.mp4
+高三英语4,https://charge.zuoyebang.cc/record_e692ffeca6a9f72fe1c719e403b49eb3.mp4
+高三英语5,https://charge.zuoyebang.cc/record_5ee23e7da6d8f2cad7c634c93c73a45d.mp4
+高三英语6,https://charge.zuoyebang.cc/record_b2b92cd6bfc21354b042765503b7dd38.mp4
+高三英语7,https://charge.zuoyebang.cc/record_fb042addb1086bd955bff75f36ff9bc3.mp4
+高三物理1,https://charge.zuoyebang.cc/record_36c89e6d0aa8842a0d3275c4173ab35d.mp4
+高三物理2,https://charge.zuoyebang.cc/record_dfe6941f6b9488aedaa9ba40688f2cc4.mp4
+高三物理3,https://charge.zuoyebang.cc/record_691e3a173e1e8732f80719508022a92d.mp4
+高三物理4,https://charge.zuoyebang.cc/record_3907436405734b79f2b1f22d0922e6a4.mp4
+高三物理5,https://charge.zuoyebang.cc/record_ff9279f7a951f59ae576e4c2ff097293.mp4
+高三物理6,https://charge.zuoyebang.cc/record_bc6cce5f730e48d9e15b591581009acb.mp4
+高三化学1,https://charge.zuoyebang.cc/record_9ea36f8c474a0f101d52486b616cdf53.mp4
+高三化学2,https://charge.zuoyebang.cc/record_f6a4382f9df4746a8071a6b000bcd076.mp4
+高三化学3,https://charge.zuoyebang.cc/record_ca8b43b0974a9f47bcb4aa1a96242e1d.mp4
+高三化学4,https://charge.zuoyebang.cc/record_1bad7380ea4e3ea5e44b997b23ea13a4.mp4
+高三化学5,https://charge.zuoyebang.cc/record_174bc01c76aaa80f4bc29f3b11ae944f.mp4
+高三化学6,https://charge.zuoyebang.cc/record_bbcd1a0c3be102e8b8189e3221ffa7f8.mp4
+高三生物1,https://charge.zuoyebang.cc/record_bf53c3ec79abcb02ac6c3f8a6ed4a673.mp4
+高三生物2,https://charge.zuoyebang.cc/record_bdd14cb0d90621c124b913aca0f0721e.mp4
+高三生物3,https://charge.zuoyebang.cc/record_2a874868eb734a754085c5a71cfd27d3.mp4
+高三生物4,https://charge.zuoyebang.cc/record_34d9dd0d2c3bdab37ae893e6e863debd.mp4
+高三生物5,https://charge.zuoyebang.cc/record_c07a2b7142ddad87ed0c5a1fddee24aa.mp4
+高三地理1,https://charge.zuoyebang.cc/record_32b6641942e7b6401b387ba1b751f75d.mp4
+高三地理2,https://charge.zuoyebang.cc/record_6ce12c9ff05adf52108139d3036caa36.mp4
+高三历史1,https://charge.zuoyebang.cc/record_d40ef4840d8a712e42d658dc3ec98e9c.mp4
+高三历史2,https://charge.zuoyebang.cc/record_34ec6b90c6b284162f3293b79e08d675.mp4
+高三历史3,https://charge.zuoyebang.cc/record_d9837dac651917b589dbe5014f6c0e8f.mp4
+高三政治1,https://charge.zuoyebang.cc/record_f7c40171c141526384b67de9865243b5.mp4
+高三政治2,https://charge.zuoyebang.cc/record_30d27e82efa968c5be825bab0efc909e.mp4
+企鹅辅 Ⅰ 小学一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
+作业帮 Ⅰ 小学一年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344518832095319_sd.flv
+学而思 Ⅰ 小学一年级,http://aldirect.hls.huya.com/huyalive/1099531752601-1099531752601-86435465212723200-2199063628658-10057-A-0-1.m3u8
+新东方 Ⅰ 小学一年级,http://aldirect.hls.huya.com/huyalive/1099531752589-1099531752589-86435413673115648-2199063628634-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
+作业帮 Ⅰ 小学二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114150264733783_sd.flv
+学而思 Ⅰ 小学二年级,http://aldirect.hls.huya.com/huyalive/1099531752602-1099531752602-86435469507690496-2199063628660-10057-A-0-1.m3u8
+新东方 Ⅰ 小学二年级,http://aldirect.hls.huya.com/huyalive/1099531752590-1099531752590-86435417968082944-2199063628636-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学三年级,http://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
+作业帮 Ⅰ 小学三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114161536925783_sd.flv
+学而思 Ⅰ 小学三年级,http://aldirect.hls.huya.com/huyalive/1099531752603-1099531752603-86435473802657792-2199063628662-10057-A-0-1.m3u8
+新东方 Ⅰ 小学三年级,http://aldirect.hls.huya.com/huyalive/1099531752591-1099531752591-86435422263050240-2199063628638-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学四年级,http://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
+作业帮 Ⅰ 小学四年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114171468513367_sd.flv
+学而思 Ⅰ 小学四年级,http://aldirect.hls.huya.com/huyalive/1099531752604-1099531752604-86435478097625088-2199063628664-10057-A-0-1.m3u8
+新东方 Ⅰ 小学四年级,http://aldirect.hls.huya.com/huyalive/1099531752592-1099531752592-86435426558017536-2199063628640-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学五年级,http://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
+作业帮 Ⅰ 小学五年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114184289976407_sd.flv
+学而思 Ⅰ 小学五年级,http://aldirect.hls.huya.com/huyalive/1099531752605-1099531752605-86435482392592384-2199063628666-10057-A-0-1.m3u8
+新东方 Ⅰ 小学五年级,http://aldirect.hls.huya.com/huyalive/1099531752593-1099531752593-86435430852984832-2199063628642-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学六年级,http://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
+作业帮 Ⅰ 小学六年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114187240144983_sd.flv
+学而思 Ⅰ 小学六年级,http://aldirect.hls.huya.com/huyalive/1099531752606-1099531752606-86435486687559680-2199063628668-10057-A-0-1.m3u8
+新东方 Ⅰ 小学六年级,http://aldirect.hls.huya.com/huyalive/1099531752594-1099531752594-86435435147952128-2199063628644-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 初中一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
+作业帮 Ⅰ 初中一年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344593730306135_sd.flv
+学而思 Ⅰ 初中一年级,http://aldirect.hls.huya.com/huyalive/1099531752607-1099531752607-86435490982526976-2199063628670-10057-A-0-1.m3u8
+新东方 Ⅰ 初中一年级,http://aldirect.hls.huya.com/huyalive/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 初中二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
+作业帮 Ⅰ 初中二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114222741782615_sd.flv
+学而思 Ⅰ 初中二年级,http://aldirect.hls.huya.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1.m3u8
+新东方 Ⅰ 初中二年级,http://aldirect.hls.huya.com/huyalive/1099531752596-1099531752596-86435443737886720-2199063628648-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 初中三年级,http://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
+作业帮 Ⅰ 初中三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344604800909399_sd.flv
+学而思 Ⅰ 初中三年级,http://aldirect.hls.huya.com/huyalive/1099531752609-1099531752609-86435499572461568-2199063628674-10057-A-0-1.m3u8
+新东方 Ⅰ 初中三年级,http://aldirect.hls.huya.com/huyalive/1099531752597-1099531752597-86435448032854016-2199063628650-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 高中一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
+作业帮 Ⅰ 高中一年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114239584534615_sd.flv
+学而思 Ⅰ 高中一年级,http://aldirect.hls.huya.com/huyalive/1099531752610-1099531752610-86435503867428864-2199063628676-10057-A-0-1.m3u8
+新东方 Ⅰ 高中一年级,http://aldirect.hls.huya.com/huyalive/1099531752598-1099531752598-86435452327821312-2199063628652-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 高中二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
+作业帮 Ⅰ 高中二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344622782414935_sd.flv
+学而思 Ⅰ 高中二年级,http://aldirect.hls.huya.com/huyalive/1099531752611-1099531752611-86435508162396160-2199063628678-10057-A-0-1.m3u8
+新东方 Ⅰ 高中二年级,http://aldirect.hls.huya.com/huyalive/1099531752599-1099531752599-86435456622788608-2199063628654-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 高中三年级,http://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
+作业帮 Ⅰ 高中三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344630637035607_sd.flv
+学而思 Ⅰ 高中三年级,http://aldirect.hls.huya.com/huyalive/1099531752612-1099531752612-86435512457363456-2199063628680-10057-A-0-1.m3u8
+新东方 Ⅰ 高中三年级,http://aldirect.hls.huya.com/huyalive/1099531752600-1099531752600-86435460917755904-2199063628656-10057-A-0-1.m3u8
+$c_start福建$c_end
+泉州4套,http://live.qztvxwgj.com/live/mny.m3u8
+福建综合,http://27.148.240.138/PLTV/88888888/224/3221226722/1.m3u8#rtsp://27.148.219.129:554/live/ch18122115512978075826.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18122115512978075826&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uV8vrVVUWyrQhbVQ%2BpNmgiJi%2BBf0vCMeagcVdGQMouH3tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建新闻,http://27.148.240.138/PLTV/88888888/224/3221226736/1.m3u8#rtsp://27.148.219.129:554/live/ch15102712014936453054.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712014936453054&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uRHJnj0PWLtYvp0FBZqC2E68leUsZRGjr3kSuaxn8%2BrctcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建电视剧,http://27.148.240.138/PLTV/88888888/224/3221226732/1.m3u8#rtsp://27.148.219.129:554/live/ch15102717162032881873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162032881873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlfRMO13qUTDugvkPreeeOetcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建旅游,http://27.148.240.138/PLTV/88888888/224/3221226854/1.m3u8#rtsp://27.148.219.129:554/live/ch15102717162061906016.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162061906016&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrl6J0Gbl2ODo8ZJDYSU5ZOqtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建公共频道,http://27.148.240.138/PLTV/88888888/224/3221226928/1.m3u8
+福建经济,http://27.148.240.138/PLTV/88888888/224/3221226920/1.m3u8#rtsp://27.148.219.129:554/live/ch15102717162009517302.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162009517302&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlYZl5heb%2FqGZQm6c9bFD1ztcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建体育,http://27.148.240.138/PLTV/88888888/224/3221226749/1.m3u8#rtsp://27.148.219.129:554/live/ch17041318323608461611.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17041318323608461611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucHtYhAF0s6wwh48Op25iOmev1F5PtW2MjhQ44pQ4CSytcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+福建少儿,http://27.148.240.138/PLTV/88888888/224/3221226738/1.m3u8#rtsp://27.148.219.129:554/live/ch15102717162041774825.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162041774825&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkNDqvWMOeCbhp%2B%2Fa4FtAaXtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+东南卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8#rtsp://27.148.219.129:554/live/ch16042815324509410461.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16042815324509410461&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uVjKIGPXSLrTux8z3WpvG0ppRRvXyWYHYAXshGmKlw6TtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+厦门1FHD,http://112.50.243.8/PLTV/88888888/224/3221226814/1.m3u8
+厦门2FHD,http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
+厦门3FHD,http://112.50.243.8/PLTV/88888888/224/3221226760/1.m3u8
+厦门4FHD,http://112.50.243.8/PLTV/88888888/224/3221226764/1.m3u8
+厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8#http://cstvpull.live.wscdns.com/live/xiamen.flv#http://ivi.bupt.edu.cn/hls/xmtv.m3u8
+厦门移动电视,http://cstvpull.live.wscdns.com/live/xiamenyidong.flv#http://stream.guihet.com/tv/cibn.php?id=39
+晋江,http://stream.jinjiang.tv/1/sd/live.m3u8?_upt=7738cbdd1569250965
+福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8#http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8#http://stream2.jlntv.cn/baishan1/sd/live.m3u8#http://124.47.33.200/PLTV/88888888/224/3221225654/index.m3u8#http://stream.guihet.com/tv/cibn.php?id=43#http://ls.qingting.fm/live/1861.m3u8#http://jzlive.jztvnews.com:8092/live/jzgg.m3u8
+福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8#http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8#http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8#http://stream.guihet.com/tv/cibn.php?id=49#http://ls.qingting.fm/live/4911.m3u8
+福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8#http://live1.fzntv.cn/live/zohi_fztv3/playlist.m3u8#https://al.hls.huya.com/huyalive/29106097-2689451202-11551104956777889792-2789274590-10057-A-0-1_1200.m3u8#http://stream2.jlntv.cn/baicheng1/sd/live.m3u8#http://stream.guihet.com/tv/cibn.php?id=57#http://ls.qingting.fm/live/1862.m3u8#http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8#http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8#http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8#http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8#http://stream.guihet.com/tv/cibn.php?id=67#http://ls.qingting.fm/live/4857.m3u8
+厦门一套,http://cstvpull.live.wscdns.com/live/xiamen1.flv#http://stream.guihet.com/tv/cibn.php?id=36
+厦门二套,http://cstvpull.live.wscdns.com/live/xiamen2.flv#http://stream.guihet.com/tv/cibn.php?id=37
+厦门三套,http://cstvpull.live.wscdns.com/live/xiamen3.flv#http://stream.guihet.com/tv/cibn.php?id=40#http://stream.snrtv.com/sxtvs-nl.m3u8
+厦门四套,http://cstvpull.live.wscdns.com/live/xiamen4.flv#http://stream.guihet.com/tv/cibn.php?id=41#http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
+南安综合,http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
+福建公共,rtsp://27.148.219.129:554/live/ch15102710565314111610.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102710565314111610&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQbgHoMPMbQhuo7ruVZoAa2Qt%2BAnb32XZUZzgl2r7BU2tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+海峡卫视,rtsp://27.148.219.129:554/live/ch17033111334107910034.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17033111334107910034&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubtTdIJCMYA5YzDa0YF1fIC2cN8doK0zGTVUThL7iS22tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+FETV,rtsp://27.148.219.129:554/live/ch17092110554866036216.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092110554866036216&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucAZXezSI56bZH%2B0ekJWO3KH4SV%2FW4UA%2Bi%2BwW0FMrM0jtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+泉州闽南语,rtmp://live.qztvxwgj.com/live/mny#http://live.qztvxwgj.com/live/mny.m3u8#http://stream.guihet.com/tv/cibn.php?id=91
+泉州四台,http://live.qztvxwgj.com/live/mny.m3u8
+泉州新闻综合,http://live.qztvxwgj.com/live/news.m3u8#rtmp://live.qztvxwgj.com/live/news#http://live.qztvxwgj.com/live/news/1578954449_31438.ts#http://live.qztvxwgj.com/live/news.m3u8
+泉州一台,http://live.qztvxwgj.com/live/news.m3u8
+汝城综合频道,http://liverucheng.sobeycache.com/live/zb1.m3u8?auth_key=1588822144-0-0-c8492a0c676e565622e8d8d6a25a4780
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+邵武新闻频道,http://r.gslb.lecloud.com/live/hls/201606033000003fc13/desc.m3u8#rtmp://r.gslb.lecloud.com/live/201606033000003fc13#http://r.gslb.lecloud.com/live/hls/201606033000003fc13/desc.m3u8
+嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+双流综合频道,http://streaming.sltv.net/live/1f9c43a006c947aba1afccfbe9f35b2e?fmt=h264_1000k_flv#http://streaming.sltv.net/live/1f9c43a006c947aba1afccfbe9f35b2e?fmt=h264_550k_flv
+四平新闻综合,http://stream2.jlntv.cn/sptv/sd/live.m3u8
+厦门全心购物,http://live-server.qxgou.com/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8#http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8#http://39.134.52.182/wh7f454c46tw1696467131_1868720566/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225981/index.m3u8#http://111.75.179.195:30767/video/live_vide2.m3u8
+龙岩新闻综合,http://stream.lytv.net.cn/2/sd/live.m3u8
+龙岩公共频道,http://stream.lytv.net.cn/1/sd/live.m3u8
+宁德新闻综合,http://220.161.247.82:8199/live/nd1_1128.m3u8#http://220.161.247.82:8199/live/nd1_696.m3u8#http://220.161.247.82:8199/live/nd1.m3u8#http://220.161.247.82:8199/live/nd1_696.m3u8#http://218.77.102.118:1935/live/gonggong/playlist.m3u8#http://119.39.242.52:1935/live/gonggong/playlist.m3u8
+宁德公共频道,http://220.161.247.82:8199/live/nd2_1128.m3u8#http://220.161.247.82:8199/live/nd2_696.m3u8#http://220.161.247.82:8199/live/nd2.m3u8#http://220.161.247.82:8199/live/nd2.m3u8#https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8#http://live1.rdxmt.com/xwzh/sd/live.m3u8#http://live1.rdxmt.com/shfw/sd/live.m3u8
+三明新闻综合,http://stream3.liveyun.hoge.cn/smtv1/sd/live.m3u8#http://stream.smntv.cn/smtv1/sd/live.m3u8#http://stream.smntv.cn/smtv1/sd/live.m3u8#http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8#http://ls.qingting.fm/live/4885.m3u8
+三明公共频道,http://stream3.liveyun.hoge.cn/smtv2/sd/live.m3u8#http://stream.smntv.cn/smtv2/sd/live.m3u8#http://stream.smntv.cn/smtv2/sd/live.m3u8#http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8#http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+尤溪新闻综合,http://fjyx.chinashadt.com:1935/zhibo/cs.stream/playlist.m3u8#http://fjyx.chinashadt.com:1935/zhibo/cs.stream_360p/playlist.m3u8
+尤溪城市生活,http://fjyx.chinashadt.com:1935/zhibo/cssh.stream_360p/playlist.m3u8#http://fjyx.chinashadt.com:1935/zhibo/cssh.stream/playlist.m3u8
+尤溪旅游宣传,http://fjyx.chinashadt.com:1935/zhibo/lvyou.stream_360p/playlist.m3u8#http://fjyx.chinashadt.com:1935/zhibo/lvyou.stream/playlist.m3u8
+上杭综合频道,http://fjsh.chinashadt.com:1935/live/fjds.stream/playlist.m3u8#http://fjsh.chinashadt.com:1935/live/fjds.stream/playlist.m3u8#http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8
+连江综合频道,http://www.lianjiangguangdian.com/hls0/session0.m3u8
+武夷山综合频道,http://fjwys.chinashadt.com:2036/live/1.stream/playlist.m3u8
+武夷山公共信息,http://fjwys.chinashadt.com:2036/live/3.stream/playlist.m3u8
+安溪电视台,http://r.gslb.lecloud.com/live/hls/2018010830000007213/desc.m3u8
+新罗电视一套,http://stream.lyxltv.com/xltv/sd/live.m3u8#http://stream.lyxltv.com/xltv/sd/live.m3u8
+新罗电视二套,http://stream.lyxltv.com/xinluotv/sd/live.m3u8#http://stream.lyxltv.com/xinluotv/sd/live.m3u8
+浦城电视一套,http://fjpc.chinashadt.com:2036/live/pcxw.stream/playlist.m3u8
+浦城电视二套,http://fjpc.chinashadt.com:2036/live/pc2.stream/playlist.m3u8
+宁化电视一套,http://fjnh.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8#http://fjnh.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8#http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+德化新闻综合,http://zb.dehua.tv:8134/hls-live/livepkgr/_definst_/wslhevent/hls_pindao_1_500.m3u8
+晋江侨乡,http://stream.jinjiang.tv/1/sd/live.m3u8#http://stream.jinjiang.tv/1/sd/live.m3u8
+石狮综合,http://218.5.112.180:88/live/dssl/playlist.m3u8#http://yf.m.l.cztv.com/channels/lantian/audio05/128k.m3u8
+长乐综合,http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8#http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8
+漳浦综合,http://220.161.87.62:8800/hls/0/index.m3u8
+漳浦数字,http://220.161.87.62:8800/hls/1/index.m3u8
+福安综合,http://r.gslb.lecloud.com/live/hls/2017102030000008116/desc.m3u8#http://r.gslb.lecloud.com/live/hls/2017102030000008116/desc.m3u8#http://dslive.grtn.cn/czzh/sd/live.m3u8
+泉州综合,http://live.qztvxwgj.com/live/news.m3u8#http://stream.guihet.com/tv/cibn.php?id=77#http://125.210.152.18:9090/live/SZWSHD_H265.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=42&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://121.31.30.90:8085/ysten-business/live/hdshenzhenstv/1.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
+宁德综合,http://220.161.247.82:8199/live/nd1_1128.m3u8#http://stream.guihet.com/tv/cibn.php?id=69
+宁德公共,http://220.161.247.82:8199/live/nd2_1128.m3u8#http://stream.guihet.com/tv/cibn.php?id=70
+邵武综合,http://r.gslb.lecloud.com/live/hls/201606033000003fc13/desc.m3u8
+叶县一套,http://hnyx.chinashadt.com:1935/live/yexian1001.stream/playlist.m3u8#http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226093/index.m3u8#http://ls.qingting.fm/live/345.m3u8
+叶县二套,http://hnyx.chinashadt.com:1935/live/1002.stream/playlist.m3u8#http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
+娄底综合,http://218.77.102.118:1935/live/zonghe/playlist.m3u8#http://125.210.152.18:9090/live/CCTV10HD_H265.m3u8#http://121.31.30.90:8085/ysten-business/live/cctv-10/1.m3u8
+娄底公共,http://218.77.102.118:1935/live/gonggong/playlist.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=53&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8#http://ls.qingting.fm/live/1738915.m3u8
+福建导视,http://fjnh.chinashadt.com:2036/live/stream:fjds.stream/playlist.m3u8
+$c_start$c_end
