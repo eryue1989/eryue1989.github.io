@@ -1,4 +1,4 @@
-电视,#genre#
+央视卫视,#genre#
 CCTV1,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8
 CCTV1,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
 CCTV1,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
@@ -727,6 +727,7 @@ CCTV4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/
 
 陕西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
 
+凤凰网络,#genre#
 凤凰中文,http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
@@ -736,4 +737,48 @@ CCTV4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/
 凤凰资讯,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+
+求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+求索记录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+
+求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+
+求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+
+求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+
+SiTV全纪实,http://183.207.248.198/ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8
+
+SiTV欢笑剧场4K,http://223.110.253.15/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.247.3/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.253.16/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.253.17/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.247.18/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.247.19/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.251.94/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.246.75/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.253.2/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.246.69/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.243.164/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.247.2/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.246.74/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.253.3/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.253.14/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.251.95/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.249.72/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.251.70/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.251.71/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.246.68/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.249.77/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.249.76/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+SiTV欢笑剧场4K,http://223.110.249.73/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 
