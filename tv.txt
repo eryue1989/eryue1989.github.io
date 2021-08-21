@@ -775,7 +775,11 @@ SiTV欢笑剧场4K,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221
 SiTV欢笑剧场4K,http://223.110.249.73/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 
 芒果tv,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+咪咕4K,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
+IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8
+4K花园,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 CHC动作电影,http://39.134.19.228:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://39.134.19.228:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
