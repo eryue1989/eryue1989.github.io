@@ -52,7 +52,6 @@ CCTV17,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 CCTV4K,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV4K,http://live.cooltv.top/tv/cctv4k_backup.php
 
 中国教育1台,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8
 
@@ -188,6 +187,8 @@ CCTV4K,http://live.cooltv.top/tv/cctv4k_backup.php
 
 凤凰香港,http://ott.js.chinamobile.com/PLTV/3/224/3221228530/index.m3u8
 凤凰香港,http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
+
+4KUHD,http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
 
 求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索记录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
