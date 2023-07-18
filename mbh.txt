@@ -148,6 +148,8 @@ CCTV17 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8
 CCTV高尔夫网球 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 
 卫视,#genre#
+凤凰中文 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 东南卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8
 东南卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
 东南卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228428/index.m3u8
